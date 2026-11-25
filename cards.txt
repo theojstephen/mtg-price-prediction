@@ -1,0 +1,199 @@
+Card Name: Agrus Kos, Eternal Soldier (#1)
+Rarity: rare | Mana Value: 4 | Power: 3
+Text: Vigilance Whenever Agrus Kos becomes the target of an ability that targets only it, you may pay {1}{R/W}. If you do, copy that ability for each other creature you control that ability could target. Each copy targets a different one of those creatures. ({R/W} can be paid with either {R} or {W}.)
+
+Card Name: Ashad, the Lone Cyberman (#113)
+Rarity: rare | Mana Value: 4 | Power: 3
+Text: The first nonlegendary artifact spell you cast each turn has casualty 2. (As you cast it, you may sacrifice a creature with power 2 or greater. When you do, copy it. A copy of an artifact spell becomes a token.) Whenever you sacrifice another creature, put a +1/+1 counter on Ashad.
+
+Card Name: Asinine Antics (#42)
+Rarity: mythic | Mana Value: 4 | Power: 
+Text: You may cast this spell as though it had flash if you pay {2} more to cast it. For each creature your opponents control, create a Cursed Role token attached to that creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature is 1/1.)
+
+Card Name: Austere Command (#193)
+Rarity: rare | Mana Value: 6 | Power: 
+Text: Choose two — • Destroy all artifacts. • Destroy all enchantments. • Destroy all creatures with mana value 3 or less. • Destroy all creatures with mana value 4 or greater.
+
+Card Name: Awaken the Woods (#170)
+Rarity: mythic | Mana Value: 2 | Power: 
+Text: Create X 1/1 green Forest Dryad land creature tokens. (They're affected by summoning sickness.)
+
+Card Name: Bessie, the Doctor's Roadster (#171)
+Rarity: rare | Mana Value: 2 | Power: 3
+Text: Haste Whenever Bessie attacks, another target legendary creature can't be blocked this turn. Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)
+
+Card Name: Bitterthorn, Nissa's Animus (#45)
+Rarity: rare | Mana Value: 3 | Power: 
+Text: Living weapon (When this Equipment enters, create a 0/0 black Phyrexian Germ creature token, then attach this to it.) Equipped creature gets +1/+1. Whenever equipped creature attacks, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Equip {3}
+
+Card Name: Chandra, Hope's Beacon (#134)
+Rarity: mythic | Mana Value: 6 | Power: 
+Text: Whenever you cast an instant or sorcery spell, copy it. You may choose new targets for the copy. This ability triggers only once each turn. +2: Add two mana in any combination of colors. +1: Exile the top five cards of your library. Until the end of your next turn, you may cast an instant or sorcery spell from among those exiled cards. −X: Chandra deals X damage to each of up to two targets.
+
+Card Name: Comet, Stellar Pup (#166)
+Rarity: mythic | Mana Value: 4 | Power: 
+Text: 0: Roll a six-sided die. 1 or 2 — [+2], then create two 1/1 green Squirrel creature tokens. They gain haste until end of turn. 3 — [−1], then return a card with mana value 2 or less from your graveyard to your hand. 4 or 5 — Comet deals damage equal to the number of loyalty counters on him to a creature or player, then [−2]. 6 — [+1], and you may activate Comet's loyalty ability two more times this turn.
+
+Card Name: Conclave Sledge-Captain (#36)
+Rarity: rare | Mana Value: 6 | Power: 4
+Text: Backup 1, backup 1, backup 1 (When this creature enters, put a +1/+1 counter on target creature. If that's another creature, it gains the following abilities until end of turn. Each backup ability triggers separately.) Trample Whenever this creature deals combat damage to a player, put that many +1/+1 counters on it.
+
+Card Name: Craterhoof Behemoth (#280)
+Rarity: mythic | Mana Value: 8 | Power: 5
+Text: Haste When this creature enters, creatures you control gain trample and get +X/+X until end of turn, where X is the number of creatures you control.
+
+Card Name: Cursed Mirror (#115)
+Rarity: rare | Mana Value: 3 | Power: 
+Text: {T}: Add {R}. As this artifact enters, you may have it become a copy of any creature on the battlefield until end of turn, except it has haste.
+
+Card Name: Cyber Conversion (#38)
+Rarity: rare | Mana Value: 2 | Power: 
+Text: Turn target creature face down. It's a 2/2 Cyberman artifact creature.
+
+Card Name: Damning Verdict (#15)
+Rarity: rare | Mana Value: 5 | Power: 
+Text: Destroy all creatures with no counters on them.
+
+Card Name: Day's Undoing (#85)
+Rarity: rare | Mana Value: 3 | Power: 
+Text: Each player shuffles their hand and graveyard into their library, then draws seven cards. If it's your turn, end the turn. (Exile all spells and abilities from the stack, including this card. Discard down to your maximum hand size. Damage wears off, and "this turn" and "until end of turn" effects end.)
+
+Card Name: Diabolic Intent (#89)
+Rarity: rare | Mana Value: 2 | Power: 
+Text: As an additional cost to cast this spell, sacrifice a creature. Search your library for a card, put that card into your hand, then shuffle.
+
+Card Name: Eidolon of Countless Battles (#66)
+Rarity: rare | Mana Value: 3 | Power: 0
+Text: Bestow {2}{W}{W} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.) This creature and enchanted creature each get +1/+1 for each creature you control and +1/+1 for each Aura you control.
+
+Card Name: Even the Score (#42)
+Rarity: mythic | Mana Value: 3 | Power: 
+Text: This spell costs {U}{U}{U} less to cast if an opponent has drawn four or more cards this turn. Draw X cards.
+
+Card Name: Firemane Commando (#73)
+Rarity: rare | Mana Value: 4 | Power: 4
+Text: Flying Whenever you attack with two or more creatures, draw a card. Whenever another player attacks with two or more creatures, they draw a card if none of those creatures attacked you.
+
+Card Name: Flooded Grove (#402)
+Rarity: rare | Mana Value: 0 | Power: 
+Text: {T}: Add {C}. {G/U}, {T}: Add {G}{G}, {G}{U}, or {U}{U}.
+
+Card Name: Hangarback Walker (#772)
+Rarity: rare | Mana Value: 0 | Power: 0
+Text: This creature enters with X +1/+1 counters on it. When this creature dies, create a 1/1 colorless Thopter artifact creature token with flying for each +1/+1 counter on this creature. {1}, {T}: Put a +1/+1 counter on this creature.
+
+Card Name: Hero of Bladehold (#188)
+Rarity: mythic | Mana Value: 4 | Power: 3
+Text: Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.) Whenever this creature attacks, create two 1/1 white Soldier creature tokens that are tapped and attacking.
+
+Card Name: Invasion of Fiora (#114)
+Rarity: rare | Mana Value: 6 | Power: 
+Text: (As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.) When this Siege enters, choose one or both — • Destroy all legendary creatures. • Destroy all nonlegendary creatures. // Menace, deathtouch Whenever Marchesa attacks, remove all counters from up to one target permanent. At the beginning of your upkeep, if you haven't been dealt combat damage since your last turn, you draw a card and you lose 1 life.
+
+Card Name: Invasion of Segovia (#63)
+Rarity: rare | Mana Value: 3 | Power: 
+Text: (As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.) When this Siege enters, create two 1/1 blue Kraken creature tokens with trample. // Noncreature spells you cast have convoke. (Your creatures can help cast those spells. Each creature you tap while casting a noncreature spell pays for {1} or one mana of that creature's color.) At the beginning of your end step, untap up to four target creatures.
+
+Card Name: Isamaru, Hound of Konda (#201)
+Rarity: rare | Mana Value: 1 | Power: 2
+Text: 
+
+Card Name: Jamie McCrimmon (#105)
+Rarity: rare | Mana Value: 3 | Power: 2
+Text: Trample Whenever you cast a historic spell, Jamie McCrimmon gets +X/+X until end of turn, where X is that spell's mana value. (Artifacts, legendaries, and Sagas are historic.) Doctor's companion (You can have two commanders if the other is the Doctor.)
+
+Card Name: Jetmir, Nexus of Revels (#193)
+Rarity: mythic | Mana Value: 4 | Power: 5
+Text: Creatures you control get +1/+0 and have vigilance as long as you control three or more creatures. Creatures you control also get +1/+0 and have trample as long as you control six or more creatures. Creatures you control also get +1/+0 and have double strike as long as you control nine or more creatures.
+
+Card Name: Junji, the Midnight Sky (#102)
+Rarity: mythic | Mana Value: 5 | Power: 5
+Text: Flying, menace When Junji dies, choose one — • Each opponent discards two cards and loses 2 life. • Put target non-Dragon creature card from a graveyard onto the battlefield under your control. You lose 2 life.
+
+Card Name: Kiki-Jiki, Mirror Breaker (#79)
+Rarity: mythic | Mana Value: 5 | Power: 2
+Text: Haste {T}: Create a token that's a copy of target nonlegendary creature you control, except it has haste. Sacrifice it at the beginning of the next end step.
+
+Card Name: Lila, Hospitality Hostess (#170)
+Rarity: mythic | Mana Value: 4 | Power: 3
+Text: You may look at the top card of your library any time. You may cast common spells from the top of your library. Guests you control get +1/+1.
+
+Card Name: Madame Vastra (#142)
+Rarity: rare | Mana Value: 4 | Power: 3
+Text: Partner with Jenny Flint (When this creature enters, target player may put Jenny Flint into their hand from their library, then shuffle.) Madame Vastra must be blocked if able. Whenever a creature dealt damage by Madame Vastra this turn dies, create a Clue token and a Food token.
+
+Card Name: Mana Cannons (#7)
+Rarity: rare | Mana Value: 3 | Power: 
+Text: Whenever you cast a multicolored spell, this enchantment deals X damage to any target, where X is the number of colors that spell is.
+
+Card Name: Michiko Konda, Truth Seeker (#215)
+Rarity: rare | Mana Value: 4 | Power: 2
+Text: Whenever a source an opponent controls deals damage to you, that player sacrifices a permanent of their choice.
+
+Card Name: Mirri, Weatherlight Duelist (#347)
+Rarity: rare | Mana Value: 3 | Power: 3
+Text: First strike Whenever Mirri attacks, each opponent can't block with more than one creature this combat. As long as Mirri is tapped, no more than one creature can attack you each combat.
+
+Card Name: Perplexing Test (#102)
+Rarity: rare | Mana Value: 5 | Power: 
+Text: Choose one — • Return all creature tokens to their owners' hands. • Return all nontoken creatures to their owners' hands.
+
+Card Name: Phyrexian Scriptures (#266)
+Rarity: mythic | Mana Value: 4 | Power: 
+Text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.) I — Put a +1/+1 counter on up to one target creature. That creature becomes an artifact in addition to its other types. II — Destroy all nonartifact creatures. III — Exile all opponents' graveyards.
+
+Card Name: Plaza of Heroes (#252)
+Rarity: rare | Mana Value: 0 | Power: 
+Text: {T}: Add {C}. {T}: Add one mana of any color. Spend this mana only to cast a legendary spell. {T}: Add one mana of any color among legendary permanents you control. {3}, {T}, Exile this land: Target legendary creature gains hexproof and indestructible until end of turn.
+
+Card Name: Reckoner Bankbuster (#255)
+Rarity: rare | Mana Value: 2 | Power: 4
+Text: This Vehicle enters with three charge counters on it. {2}, {T}, Remove a charge counter from this Vehicle: Draw a card. Then if there are no charge counters on this Vehicle, create a Treasure token and a 1/1 colorless Pilot creature token with "This token crews Vehicles as though its power were 2 greater." Crew 3
+
+Card Name: Regal Caracal (#232)
+Rarity: rare | Mana Value: 5 | Power: 3
+Text: Other Cats you control get +1/+1 and have lifelink. (Damage dealt by those creatures also causes you to gain that much life.) When this creature enters, create two 1/1 white Cat creature tokens with lifelink.
+
+Card Name: Ruby Medallion (#405)
+Rarity: rare | Mana Value: 2 | Power: 
+Text: Red spells you cast cost {1} less to cast.
+
+Card Name: Runadi, Behemoth Caller (#44)
+Rarity: rare | Mana Value: 3 | Power: 1
+Text: Whenever you cast a creature spell with mana value 5 or greater, that creature enters with X additional +1/+1 counters on it, where X is its mana value minus 4. Creatures you control with three or more +1/+1 counters on them have haste. {T}: Add {G}.
+
+Card Name: Spara's Headquarters (#257)
+Rarity: rare | Mana Value: 0 | Power: 
+Text: ({T}: Add {G}, {W}, or {U}.) This land enters tapped. Cycling {3} ({3}, Discard this card: Draw a card.)
+
+Card Name: Spire of Industry (#178)
+Rarity: rare | Mana Value: 0 | Power: 
+Text: {T}: Add {C}. {T}, Pay 1 life: Add one mana of any color. Activate only if you control an artifact.
+
+Card Name: Staff of the Storyteller (#10)
+Rarity: rare | Mana Value: 2 | Power: 
+Text: When this artifact enters, create a 1/1 white Spirit creature token with flying. Whenever you create one or more creature tokens, put a story counter on this artifact. {W}, {T}, Remove a story counter from this artifact: Draw a card.
+
+Card Name: Temple of Deceit (#170)
+Rarity: rare | Mana Value: 0 | Power: 
+Text: This land enters tapped. When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.) {T}: Add {U} or {B}.
+
+Card Name: The Eighth Doctor (#124)
+Rarity: rare | Mana Value: 6 | Power: 4
+Text: When The Eighth Doctor enters, mill three cards. Once during each of your turns, you may play a historic land or cast a historic permanent spell from your graveyard. If you do, it gains "If this permanent would leave the battlefield, exile it instead of putting it anywhere else."
+
+Card Name: Twilight Prophet (#193)
+Rarity: mythic | Mana Value: 4 | Power: 2
+Text: Flying Ascend (If you control ten or more permanents, you get the city's blessing for the rest of the game.) At the beginning of your upkeep, if you have the city's blessing, reveal the top card of your library and put it into your hand. Each opponent loses X life and you gain X life, where X is that card's mana value.
+
+Card Name: Warrior's Oath (#130)
+Rarity: mythic | Mana Value: 2 | Power: 
+Text: Take an extra turn after this one. At the beginning of that turn's end step, you lose the game.
+
+Card Name: Woodland Cemetery (#261)
+Rarity: rare | Mana Value: 0 | Power: 
+Text: This land enters tapped unless you control a Swamp or a Forest. {T}: Add {B} or {G}.
+
+Card Name: Yavimaya Coast (#261)
+Rarity: rare | Mana Value: 0 | Power: 
+Text: {T}: Add {C}. {T}: Add {G} or {U}. This land deals 1 damage to you.

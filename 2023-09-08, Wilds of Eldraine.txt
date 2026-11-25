@@ -1,0 +1,1103 @@
+Card Name: Moonshaker Cavalry (#21) | Spoiled date: 2023-07-28
+Rarity: mythic | Mana Value: 8 | Power: 6
+Text: Flying / When this creature enters, creatures you control gain flying and get +X/+X until end of turn, where X is the number of creatures you control.
+
+Card Name: Sleight of Hand (#67) | Spoiled date: 2023-07-28
+Rarity: common | Mana Value: 1 | Power: 
+Text: Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.
+
+Card Name: Ashiok, Wicked Manipulator (#78) | Spoiled date: 2023-07-28
+Rarity: mythic | Mana Value: 5 | Power: 
+Text: If you would pay life while your library has at least that many cards in it, exile that many cards from the top of your library instead. / +1: Look at the top two cards of your library. Exile one of them and put the other into your hand. / −2: Create two 1/1 black Nightmare creature tokens with "At the beginning of combat on your turn, if a card was put into exile this turn, put a +1/+1 counter on this token." / −7: Target player exiles the top X cards of their library, where X is the total mana value of cards you own in exile.
+
+Card Name: Tough Cookie (#193) | Spoiled date: 2023-07-28
+Rarity: uncommon | Mana Value: 2 | Power: 2
+Text: When this creature enters, create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.") / {2}{G}: Until end of turn, target noncreature artifact you control becomes a 4/4 artifact creature. / {2}, {T}, Sacrifice this creature: You gain 3 life.
+
+Card Name: Talion, the Kindly Lord (#215) | Spoiled date: 2023-07-28
+Rarity: mythic | Mana Value: 4 | Power: 3
+Text: Flying / As Talion enters, choose a number between 1 and 10. / Whenever an opponent casts a spell with mana value, power, or toughness equal to the chosen number, that player loses 2 life and you draw a card.
+
+Card Name: Cruel Somnophage // Can't Wake Up (#222) | Spoiled date: 2023-07-28
+Rarity: rare | Mana Value: 2 | Power: 
+Text: Cruel Somnophage's power and toughness are each equal to the number of creature cards in all graveyards. // Target player mills four cards. (Then exile this card. You may cast the creature later from exile.)
+
+Card Name: Restless Fortress (#259) | Spoiled date: 2023-07-28
+Rarity: rare | Mana Value: 0 | Power: 
+Text: This land enters tapped. / {T}: Add {W} or {B}. / {2}{W}{B}: This land becomes a 1/4 white and black Nightmare creature until end of turn. It's still a land. / Whenever this land attacks, defending player loses 2 life and you gain 2 life.
+
+Card Name: Besotted Knight // Betroth the Beast (#4) | Spoiled date: 2023-08-15
+Rarity: common | Mana Value: 4 | Power: 3
+Text: // Create a Royal Role token attached to target creature you control. (Enchanted creature gets +1/+1 and has ward {1}.)
+
+Card Name: Break the Spell (#5) | Spoiled date: 2023-08-15
+Rarity: common | Mana Value: 1 | Power: 
+Text: Destroy target enchantment. If a permanent you controlled or a token was destroyed this way, draw a card.
+
+Card Name: Cursed Courtier (#9) | Spoiled date: 2023-08-15
+Rarity: uncommon | Mana Value: 3 | Power: 3
+Text: Lifelink / When this creature enters, create a Cursed Role token attached to it. (Enchanted creature is 1/1.)
+
+Card Name: Expel the Interlopers (#13) | Spoiled date: 2023-08-15
+Rarity: rare | Mana Value: 5 | Power: 
+Text: Choose a number between 0 and 10. Destroy all creatures with power greater than or equal to the chosen number.
+
+Card Name: Gallant Pie-Wielder (#15) | Spoiled date: 2023-08-15
+Rarity: uncommon | Mana Value: 3 | Power: 2
+Text: First strike / Celebration — This creature has double strike as long as two or more nonland permanents entered the battlefield under your control this turn.
+
+Card Name: Glass Casket (#16) | Spoiled date: 2023-08-15
+Rarity: uncommon | Mana Value: 2 | Power: 
+Text: When this artifact enters, exile target creature an opponent controls with mana value 3 or less until this artifact leaves the battlefield.
+
+Card Name: Knight of Doves (#19) | Spoiled date: 2023-08-15
+Rarity: uncommon | Mana Value: 3 | Power: 1
+Text: Whenever an enchantment you control is put into a graveyard from the battlefield, create a 1/1 white Bird creature token with flying.
+
+Card Name: Stroke of Midnight (#33) | Spoiled date: 2023-08-15
+Rarity: uncommon | Mana Value: 3 | Power: 
+Text: Destroy target nonland permanent. Its controller creates a 1/1 white Human creature token.
+
+Card Name: Three Blind Mice (#35) | Spoiled date: 2023-08-15
+Rarity: rare | Mana Value: 3 | Power: 
+Text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.) / I — Create a 1/1 white Mouse creature token. / II, III — Create a token that's a copy of target token you control. / IV — Creatures you control get +1/+1 and gain vigilance until end of turn.
+
+Card Name: Farsight Ritual (#49) | Spoiled date: 2023-08-15
+Rarity: rare | Mana Value: 4 | Power: 
+Text: Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.) / Look at the top four cards of your library. If this spell was bargained, look at the top eight cards of your library instead. Put two of them into your hand and the rest on the bottom of your library in a random order.
+
+Card Name: Living Lectern (#59) | Spoiled date: 2023-08-15
+Rarity: common | Mana Value: 2 | Power: 0
+Text: {1}, Sacrifice this creature: Draw a card. Create a Sorcerer Role token attached to up to one other target creature you control. Activate only as a sorcery. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has "Whenever this creature attacks, scry 1.")
+
+Card Name: Virtue of Knowledge // Vantress Visions (#76) | Spoiled date: 2023-08-15
+Rarity: mythic | Mana Value: 5 | Power: 
+Text: If a permanent entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time. // Copy target activated or triggered ability you control. You may choose new targets for the copy.
+
+Card Name: Beseech the Mirror (#82) | Spoiled date: 2023-08-15
+Rarity: mythic | Mana Value: 4 | Power: 
+Text: Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.) / Search your library for a card, exile it face down, then shuffle. If this spell was bargained, you may cast the exiled card without paying its mana cost if that spell's mana value is 4 or less. Put the exiled card into your hand if it wasn't cast this way.
+
+Card Name: Conceited Witch // Price of Beauty (#84) | Spoiled date: 2023-08-15
+Rarity: common | Mana Value: 3 | Power: 2
+Text: Menace (This creature can't be blocked except by two or more creatures.) // Create a Wicked Role token attached to target creature you control. (Then exile this card. You may cast the creature later from exile.)
+
+Card Name: Faerie Dreamthief (#89) | Spoiled date: 2023-08-15
+Rarity: uncommon | Mana Value: 1 | Power: 1
+Text: Flying / When this creature enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.) / {2}{B}, Exile this card from your graveyard: You draw a card and you lose 1 life.
+
+Card Name: Lich-Knights' Conquest (#96) | Spoiled date: 2023-08-15
+Rarity: rare | Mana Value: 5 | Power: 
+Text: Sacrifice any number of artifacts, enchantments, and/or tokens. Return that many creature cards from your graveyard to the battlefield.
+
+Card Name: Lord Skitter's Blessing (#98) | Spoiled date: 2023-08-15
+Rarity: rare | Mana Value: 2 | Power: 
+Text: When this enchantment enters, create a Wicked Role token attached to target creature you control. (Enchanted creature gets +1/+1. When this token is put into a graveyard, each opponent loses 1 life.) / At the beginning of your draw step, if you control an enchanted creature, you lose 1 life and you draw an additional card.
+
+Card Name: Rat Out (#103) | Spoiled date: 2023-08-15
+Rarity: common | Mana Value: 1 | Power: 
+Text: Up to one target creature gets -1/-1 until end of turn. You create a 1/1 black Rat creature token with "This token can't block."
+
+Card Name: Rowan's Grim Search (#104) | Spoiled date: 2023-08-15
+Rarity: common | Mana Value: 3 | Power: 
+Text: Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.) / If this spell was bargained, look at the top four cards of your library, then put up to two of them back on top of your library in any order and the rest into your graveyard. / You draw two cards and you lose 2 life.
+
+Card Name: Sweettooth Witch (#111) | Spoiled date: 2023-08-15
+Rarity: common | Mana Value: 3 | Power: 3
+Text: When this creature enters, create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.") / {2}, Sacrifice a Food: Target player loses 2 life.
+
+Card Name: Warehouse Tabby (#117) | Spoiled date: 2023-08-15
+Rarity: common | Mana Value: 1 | Power: 1
+Text: Whenever an enchantment you control is put into a graveyard from the battlefield, create a 1/1 black Rat creature token with "This token can't block." / {1}{B}: This creature gains deathtouch until end of turn.
+
+Card Name: Embereth Veteran (#127) | Spoiled date: 2023-08-15
+Rarity: uncommon | Mana Value: 1 | Power: 2
+Text: {1}, Sacrifice this creature: Create a Young Hero Role token attached to another target creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature has "Whenever this creature attacks, if its toughness is 3 or less, put a +1/+1 counter on it.")
+
+Card Name: Monstrous Rage (#142) | Spoiled date: 2023-08-15
+Rarity: uncommon | Mana Value: 1 | Power: 
+Text: Target creature gets +2/+0 until end of turn. Create a Monster Role token attached to it. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has trample.)
+
+Card Name: Ratcatcher Trainee // Pest Problem (#144) | Spoiled date: 2023-08-15
+Rarity: common | Mana Value: 2 | Power: 2
+Text: During your turn, this creature has first strike. // Create two 1/1 black Rat creature tokens with "This token can't block." (Then exile this card. You may cast the creature later from exile.)
+
+Card Name: Realm-Scorcher Hellkite (#145) | Spoiled date: 2023-08-15
+Rarity: mythic | Mana Value: 6 | Power: 4
+Text: Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.) / Flying, haste / When this creature enters, if it was bargained, add four mana in any combination of colors. / {1}{R}: This creature deals 1 damage to any target.
+
+Card Name: Torch the Tower (#153) | Spoiled date: 2023-08-15
+Rarity: common | Mana Value: 1 | Power: 
+Text: Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.) / Torch the Tower deals 2 damage to target creature or planeswalker. If this spell was bargained, instead it deals 3 damage to that permanent and you scry 1. / If a permanent dealt damage by Torch the Tower would die this turn, exile it instead.
+
+Card Name: Twisted Fealty (#154) | Spoiled date: 2023-08-15
+Rarity: uncommon | Mana Value: 3 | Power: 
+Text: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. / Create a Wicked Role token attached to up to one target creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1. When this token is put into a graveyard, each opponent loses 1 life.)
+
+Card Name: Beanstalk Wurm // Plant Beans (#161) | Spoiled date: 2023-08-15
+Rarity: common | Mana Value: 5 | Power: 5
+Text: Reach // You may play an additional land this turn. (Then exile this card. You may cast the creature later from exile.)
+
+Card Name: Blossoming Tortoise (#163) | Spoiled date: 2023-08-15
+Rarity: mythic | Mana Value: 4 | Power: 3
+Text: Whenever this creature enters or attacks, mill three cards, then return a land card from your graveyard to the battlefield tapped. / Activated abilities of lands you control cost {1} less to activate. / Land creatures you control get +1/+1.
+
+Card Name: Elvish Archivist (#168) | Spoiled date: 2023-08-15
+Rarity: rare | Mana Value: 2 | Power: 0
+Text: Whenever one or more artifacts you control enter, put two +1/+1 counters on this creature. This ability triggers only once each turn. / Whenever one or more enchantments you control enter, draw a card. This ability triggers only once each turn.
+
+Card Name: The Huntsman's Redemption (#176) | Spoiled date: 2023-08-15
+Rarity: rare | Mana Value: 3 | Power: 
+Text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.) / I — Create a 3/3 green Beast creature token. / II — You may sacrifice a creature. If you do, search your library for a creature or basic land card, reveal it, put it into your hand, then shuffle. / III — Up to two target creatures each get +2/+2 and gain trample until end of turn.
+
+Card Name: Return from the Wilds (#181) | Spoiled date: 2023-08-15
+Rarity: common | Mana Value: 3 | Power: 
+Text: Choose two — / • Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. / • Create a 1/1 white Human creature token. / • Create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.")
+
+Card Name: Rootrider Faun (#182) | Spoiled date: 2023-08-15
+Rarity: common | Mana Value: 2 | Power: 1
+Text: {T}: Add {G}. / {1}, {T}: Add one mana of any color.
+
+Card Name: Skybeast Tracker (#185) | Spoiled date: 2023-08-15
+Rarity: common | Mana Value: 4 | Power: 2
+Text: Reach / Whenever you cast a spell with mana value 5 or greater, create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.")
+
+Card Name: Tanglespan Lookout (#188) | Spoiled date: 2023-08-15
+Rarity: uncommon | Mana Value: 3 | Power: 2
+Text: Whenever an Aura you control enters, draw a card.
+
+Card Name: Thunderous Debut (#190) | Spoiled date: 2023-08-15
+Rarity: rare | Mana Value: 8 | Power: 
+Text: Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.) / Look at the top twenty cards of your library. You may reveal up to two creature cards from among them. If this spell was bargained, put the revealed cards onto the battlefield. Otherwise, put the revealed cards into your hand. Then shuffle.
+
+Card Name: Troublemaker Ouphe (#194) | Spoiled date: 2023-08-15
+Rarity: common | Mana Value: 2 | Power: 2
+Text: Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.) / When this creature enters, if it was bargained, exile target artifact or enchantment an opponent controls.
+
+Card Name: The Goose Mother (#204) | Spoiled date: 2023-08-15
+Rarity: rare | Mana Value: 2 | Power: 2
+Text: Flying / The Goose Mother enters with X +1/+1 counters on it. / When The Goose Mother enters, create half X Food tokens, rounded up. / Whenever The Goose Mother attacks, you may sacrifice a Food. If you do, draw a card.
+
+Card Name: Hylda of the Icy Crown (#206) | Spoiled date: 2023-08-15
+Rarity: mythic | Mana Value: 4 | Power: 3
+Text: Whenever you tap an untapped creature an opponent controls, you may pay {1}. When you do, choose one — / • Create a 4/4 white and blue Elemental creature token. / • Put a +1/+1 counter on each creature you control. / • Scry 2, then draw a card.
+
+Card Name: Johann, Apprentice Sorcerer (#207) | Spoiled date: 2023-08-15
+Rarity: uncommon | Mana Value: 4 | Power: 2
+Text: You may look at the top card of your library any time. / Once each turn, you may cast an instant or sorcery spell from the top of your library. (You still pay its costs. Timing rules still apply.)
+
+Card Name: Neva, Stalked by Nightmares (#209) | Spoiled date: 2023-08-15
+Rarity: uncommon | Mana Value: 4 | Power: 2
+Text: Menace / When Neva enters, return target creature or enchantment card from your graveyard to your hand. / Whenever an enchantment you control is put into a graveyard from the battlefield, put a +1/+1 counter on Neva, then scry 1.
+
+Card Name: Obyra, Dreaming Duelist (#210) | Spoiled date: 2023-08-15
+Rarity: uncommon | Mana Value: 2 | Power: 2
+Text: Flash / Flying / Whenever another Faerie you control enters, each opponent loses 1 life.
+
+Card Name: Rowan, Scion of War (#211) | Spoiled date: 2023-08-15
+Rarity: mythic | Mana Value: 3 | Power: 4
+Text: Menace / {T}: Spells you cast this turn that are black and/or red cost {X} less to cast, where X is the amount of life you lost this turn. Activate only as a sorcery.
+
+Card Name: Ruby, Daring Tracker (#212) | Spoiled date: 2023-08-15
+Rarity: uncommon | Mana Value: 2 | Power: 1
+Text: Haste (This creature can attack and {T} as soon as it comes under your control.) / Whenever Ruby attacks while you control a creature with power 4 or greater, Ruby gets +2/+2 until end of turn. / {T}: Add {R} or {G}.
+
+Card Name: Sharae of Numbing Depths (#213) | Spoiled date: 2023-08-15
+Rarity: uncommon | Mana Value: 4 | Power: 2
+Text: When Sharae enters, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.) / Whenever you tap one or more untapped creatures your opponents control, draw a card. This ability triggers only once each turn.
+
+Card Name: Syr Armont, the Redeemer (#214) | Spoiled date: 2023-08-15
+Rarity: uncommon | Mana Value: 5 | Power: 4
+Text: When Syr Armont enters, create a Monster Role token attached to another target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has trample.) / Enchanted creatures you control get +1/+1.
+
+Card Name: Totentanz, Swarm Piper (#216) | Spoiled date: 2023-08-15
+Rarity: uncommon | Mana Value: 3 | Power: 2
+Text: Whenever Totentanz or another nontoken creature you control dies, create a 1/1 black Rat creature token with "This token can't block." / {1}{B}: Target attacking Rat you control gains deathtouch until end of turn.
+
+Card Name: Troyan, Gutsy Explorer (#217) | Spoiled date: 2023-08-15
+Rarity: uncommon | Mana Value: 3 | Power: 1
+Text: {T}: Add {G}{U}. Spend this mana only to cast spells with mana value 5 or greater or spells with {X} in their mana costs. / {U}, {T}: Draw a card, then discard a card.
+
+Card Name: Will, Scion of Peace (#218) | Spoiled date: 2023-08-15
+Rarity: mythic | Mana Value: 3 | Power: 2
+Text: Vigilance / {T}: Spells you cast this turn that are white and/or blue cost {X} less to cast, where X is the amount of life you gained this turn. Activate only as a sorcery.
+
+Card Name: Kellan, the Fae-Blooded // Birthright Boon (#230) | Spoiled date: 2023-08-15
+Rarity: mythic | Mana Value: 3 | Power: 2
+Text: Double strike / Other creatures you control get +1/+0 for each Aura and Equipment attached to Kellan. // Search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle.
+
+Card Name: Syr Ginger, the Meal Ender (#252) | Spoiled date: 2023-08-15
+Rarity: rare | Mana Value: 2 | Power: 3
+Text: Syr Ginger has trample, hexproof, and haste as long as an opponent controls a planeswalker. / Whenever another artifact you control is put into a graveyard from the battlefield, put a +1/+1 counter on Syr Ginger and scry 1. / {2}, {T}, Sacrifice Syr Ginger: You gain life equal to its power.
+
+Card Name: Edgewall Inn (#255) | Spoiled date: 2023-08-15
+Rarity: uncommon | Mana Value: 0 | Power: 
+Text: This land enters tapped. / As this land enters, choose a color. / {T}: Add one mana of the chosen color. / {3}, {T}, Sacrifice this land: Return target card that has an Adventure from your graveyard to your hand.
+
+Card Name: Restless Cottage (#258) | Spoiled date: 2023-08-15
+Rarity: rare | Mana Value: 0 | Power: 
+Text: This land enters tapped. / {T}: Add {B} or {G}. / {2}{B}{G}: This land becomes a 4/4 black and green Horror creature until end of turn. It's still a land. / Whenever this land attacks, create a Food token and exile up to one target card from a graveyard.
+
+Card Name: The Princess Takes Flight (#23) | Spoiled date: 2023-08-16
+Rarity: uncommon | Mana Value: 3 | Power: 
+Text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.) / I — Exile up to one target creature. / II — Target creature you control gets +2/+2 and gains flying until end of turn. / III — Return the exiled card to the battlefield under its owner's control.
+
+Card Name: Spellbook Vendor (#31) | Spoiled date: 2023-08-16
+Rarity: rare | Mana Value: 2 | Power: 2
+Text: Vigilance / At the beginning of combat on your turn, you may pay {1}. When you do, create a Sorcerer Role token attached to target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has "Whenever this creature attacks, scry 1.")
+
+Card Name: Virtue of Loyalty // Ardenvale Fealty (#38) | Spoiled date: 2023-08-16
+Rarity: mythic | Mana Value: 5 | Power: 
+Text: At the beginning of your end step, put a +1/+1 counter on each creature you control. Untap those creatures. // Create a 2/2 white Knight creature token with vigilance. (Then exile this card. You may cast the enchantment later from exile.)
+
+Card Name: Werefox Bodyguard (#39) | Spoiled date: 2023-08-16
+Rarity: rare | Mana Value: 3 | Power: 2
+Text: Flash / When this creature enters, exile up to one other target non-Fox creature until this creature leaves the battlefield. / {1}{W}, Sacrifice this creature: You gain 2 life.
+
+Card Name: Ice Out (#54) | Spoiled date: 2023-08-16
+Rarity: common | Mana Value: 3 | Power: 
+Text: Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.) / This spell costs {1} less to cast if it's bargained. / Counter target spell.
+
+Card Name: Johann's Stopgap (#58) | Spoiled date: 2023-08-16
+Rarity: common | Mana Value: 4 | Power: 
+Text: Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.) / This spell costs {2} less to cast if it's bargained. / Return target nonland permanent to its owner's hand. Draw a card.
+
+Card Name: Lord Skitter's Butcher (#99) | Spoiled date: 2023-08-16
+Rarity: uncommon | Mana Value: 3 | Power: 2
+Text: When this creature enters, choose one — / • Create a 1/1 black Rat creature token with "This token can't block." / • You may sacrifice another creature. If you do, scry 2, then draw a card. / • Creatures you control gain menace until end of turn.
+
+Card Name: Specter of Mortality (#107) | Spoiled date: 2023-08-16
+Rarity: rare | Mana Value: 5 | Power: 3
+Text: Flying / When this creature enters, you may exile one or more creature cards from your graveyard. When you do, each other creature gets -X/-X until end of turn, where X is the number of cards exiled this way.
+
+Card Name: Stonesplitter Bolt (#151) | Spoiled date: 2023-08-16
+Rarity: uncommon | Mana Value: 1 | Power: 
+Text: Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.) / Stonesplitter Bolt deals X damage to target creature or planeswalker. If this spell was bargained, it deals twice X damage to that permanent instead.
+
+Card Name: Tattered Ratter (#152) | Spoiled date: 2023-08-16
+Rarity: uncommon | Mana Value: 2 | Power: 2
+Text: Whenever a Rat you control becomes blocked, it gets +2/+0 until end of turn.
+
+Card Name: Howling Galefang (#175) | Spoiled date: 2023-08-16
+Rarity: uncommon | Mana Value: 4 | Power: 4
+Text: Vigilance / This creature has haste as long as you own a card in exile that has an Adventure.
+
+Card Name: Callous Sell-Sword // Burn Together (#221) | Spoiled date: 2023-08-16
+Rarity: uncommon | Mana Value: 2 | Power: 2
+Text: This creature enters with a +1/+1 counter on it for each creature that died under your control this turn. // Target creature you control deals damage equal to its power to any other target. Then sacrifice it.
+
+Card Name: Scalding Viper // Steam Clean (#235) | Spoiled date: 2023-08-16
+Rarity: rare | Mana Value: 2 | Power: 2
+Text: Whenever an opponent casts a spell with mana value 3 or less, this creature deals 1 damage to that player. // Return target nonland permanent to its owner's hand. (Then exile this card. You may cast the creature later from exile.)
+
+Card Name: Agatha's Soul Cauldron (#242) | Spoiled date: 2023-08-16
+Rarity: mythic | Mana Value: 2 | Power: 
+Text: You may spend mana as though it were mana of any color to activate abilities of creatures you control. / Creatures you control with +1/+1 counters on them have all activated abilities of all creature cards exiled with Agatha's Soul Cauldron. / {T}: Exile target card from a graveyard. When a creature card is exiled this way, put a +1/+1 counter on target creature you control.
+
+Card Name: Discerning Financier (#10) | Spoiled date: 2023-08-17
+Rarity: uncommon | Mana Value: 3 | Power: 2
+Text: At the beginning of your upkeep, if an opponent controls more lands than you, create a Treasure token. (It's an artifact with "{T}, Sacrifice this token: Add one mana of any color.") / {2}{W}: Choose another player. That player gains control of target Treasure you control. You draw a card.
+
+Card Name: Dutiful Griffin (#11) | Spoiled date: 2023-08-17
+Rarity: uncommon | Mana Value: 5 | Power: 4
+Text: Flying / {2}{W}, Sacrifice two enchantments: Return this card from your graveyard to your hand.
+
+Card Name: Return Triumphant (#26) | Spoiled date: 2023-08-17
+Rarity: common | Mana Value: 2 | Power: 
+Text: Return target creature card with mana value 3 or less from your graveyard to the battlefield. Create a Young Hero Role token attached to it. (Enchanted creature has "Whenever this creature attacks, if its toughness is 3 or less, put a +1/+1 counter on it." If you put another Role on the creature later, put this one into the graveyard.)
+
+Card Name: Bitter Chill (#44) | Spoiled date: 2023-08-17
+Rarity: uncommon | Mana Value: 2 | Power: 
+Text: Enchant creature / When this Aura enters, tap enchanted creature. / Enchanted creature doesn't untap during its controller's untap step. / When this Aura is put into a graveyard from the battlefield, you may pay {1}. If you do, scry 1, then draw a card.
+
+Card Name: Chancellor of Tales (#45) | Spoiled date: 2023-08-17
+Rarity: uncommon | Mana Value: 4 | Power: 2
+Text: Flying / Whenever you cast an Adventure spell, you may copy it. You may choose new targets for the copy.
+
+Card Name: Extraordinary Journey (#48) | Spoiled date: 2023-08-17
+Rarity: rare | Mana Value: 2 | Power: 
+Text: When this enchantment enters, exile up to X target creatures. For each of those cards, its owner may play it for as long as it remains exiled. / Whenever one or more nontoken creatures enter, if one or more of them entered from exile or was cast from exile, you draw a card. This ability triggers only once each turn.
+
+Card Name: Gadwick's First Duel (#51) | Spoiled date: 2023-08-17
+Rarity: uncommon | Mana Value: 2 | Power: 
+Text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.) / I — Create a Cursed Role token attached to up to one target creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature is 1/1.) / II — Scry 2. / III — When you next cast an instant or sorcery spell with mana value 3 or less this turn, copy that spell. You may choose new targets for the copy.
+
+Card Name: Icewrought Sentry (#55) | Spoiled date: 2023-08-17
+Rarity: uncommon | Mana Value: 3 | Power: 2
+Text: Vigilance / Whenever this creature attacks, you may pay {1}{U}. When you do, tap target creature an opponent controls. / Whenever you tap an untapped creature an opponent controls, this creature gets +2/+1 until end of turn.
+
+Card Name: Ingenious Prodigy (#56) | Spoiled date: 2023-08-17
+Rarity: rare | Mana Value: 1 | Power: 0
+Text: Skulk (This creature can't be blocked by creatures with greater power.) / This creature enters with X +1/+1 counters on it. / At the beginning of your upkeep, if this creature has one or more +1/+1 counters on it, you may remove a +1/+1 counter from it. If you do, draw a card.
+
+Card Name: Splashy Spellcaster (#70) | Spoiled date: 2023-08-17
+Rarity: uncommon | Mana Value: 4 | Power: 2
+Text: Whenever you cast an instant or sorcery spell, create a Sorcerer Role token attached to up to one other target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has "Whenever this creature attacks, scry 1.")
+
+Card Name: Talion's Messenger (#73) | Spoiled date: 2023-08-17
+Rarity: rare | Mana Value: 3 | Power: 1
+Text: Flying / Whenever you attack with one or more Faeries, draw a card, then discard a card. When you discard a card this way, put a +1/+1 counter on target Faerie you control.
+
+Card Name: Ashiok's Reaper (#79) | Spoiled date: 2023-08-17
+Rarity: uncommon | Mana Value: 4 | Power: 3
+Text: Whenever an enchantment you control is put into a graveyard from the battlefield, draw a card.
+
+Card Name: Hopeless Nightmare (#95) | Spoiled date: 2023-08-17
+Rarity: common | Mana Value: 1 | Power: 
+Text: When this enchantment enters, each opponent discards a card and loses 2 life. / When this enchantment is put into a graveyard from the battlefield, scry 2. / {2}{B}: Sacrifice this enchantment.
+
+Card Name: Lord Skitter, Sewer King (#97) | Spoiled date: 2023-08-17
+Rarity: rare | Mana Value: 3 | Power: 3
+Text: Whenever another Rat you control enters, exile up to one target card from an opponent's graveyard. / At the beginning of combat on your turn, create a 1/1 black Rat creature token with "This token can't block."
+
+Card Name: Not Dead After All (#101) | Spoiled date: 2023-08-17
+Rarity: common | Mana Value: 1 | Power: 
+Text: Until end of turn, target creature you control gains "When this creature dies, return it to the battlefield tapped under its owner's control, then create a Wicked Role token attached to it." (Enchanted creature gets +1/+1. When this token is put into a graveyard, each opponent loses 1 life.)
+
+Card Name: Spiteful Hexmage (#108) | Spoiled date: 2023-08-17
+Rarity: rare | Mana Value: 1 | Power: 3
+Text: When this creature enters, create a Cursed Role token attached to target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature is 1/1.)
+
+Card Name: Taken by Nightmares (#112) | Spoiled date: 2023-08-17
+Rarity: uncommon | Mana Value: 4 | Power: 
+Text: Exile target creature. If you control an enchantment, scry 2.
+
+Card Name: Virtue of Persistence // Locthwain Scorn (#115) | Spoiled date: 2023-08-17
+Rarity: mythic | Mana Value: 7 | Power: 
+Text: At the beginning of your upkeep, put target creature card from a graveyard onto the battlefield under your control. // Target creature gets -3/-3 until end of turn. You gain 2 life.
+
+Card Name: Cut In (#125) | Spoiled date: 2023-08-17
+Rarity: common | Mana Value: 4 | Power: 
+Text: Cut In deals 4 damage to target creature. / Create a Young Hero Role token attached to up to one target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature has "Whenever this creature attacks, if its toughness is 3 or less, put a +1/+1 counter on it.")
+
+Card Name: Flick a Coin (#128) | Spoiled date: 2023-08-17
+Rarity: common | Mana Value: 3 | Power: 
+Text: Flick a Coin deals 1 damage to any target. You create a Treasure token. (It's an artifact with "{T}, Sacrifice this token: Add one mana of any color.") / Draw a card.
+
+Card Name: Redcap Gutter-Dweller (#146) | Spoiled date: 2023-08-17
+Rarity: rare | Mana Value: 4 | Power: 3
+Text: Menace / When this creature enters, create two 1/1 black Rat creature tokens with "This token can't block." / At the beginning of your upkeep, you may sacrifice another creature. If you do, put a +1/+1 counter on this creature and exile the top card of your library. You may play that card this turn.
+
+Card Name: Agatha's Champion (#160) | Spoiled date: 2023-08-17
+Rarity: uncommon | Mana Value: 5 | Power: 4
+Text: Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.) / Trample / When this creature enters, if it was bargained, it fights up to one target creature you don't control. (Each deals damage equal to its power to the other.)
+
+Card Name: Bramble Familiar // Fetch Quest (#164) | Spoiled date: 2023-08-17
+Rarity: rare | Mana Value: 2 | Power: 2
+Text: {T}: Add {G}. / {1}{G}, {T}, Discard a card: Return this creature to its owner's hand. // Mill seven cards. Then put a creature, enchantment, or land card from among the milled cards onto the battlefield.
+
+Card Name: Brave the Wilds (#165) | Spoiled date: 2023-08-17
+Rarity: common | Mana Value: 1 | Power: 
+Text: Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.) / If this spell was bargained, target land you control becomes a 3/3 Elemental creature with haste that's still a land. / Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+
+Card Name: Likeness Looter (#208) | Spoiled date: 2023-08-17
+Rarity: rare | Mana Value: 2 | Power: 1
+Text: Flying / {T}: Draw a card, then discard a card. / {X}: This creature becomes a copy of target creature card in your graveyard with mana value X, except it has flying and this ability. Activate only as a sorcery.
+
+Card Name: Shrouded Shepherd // Cleave Shadows (#236) | Spoiled date: 2023-08-17
+Rarity: uncommon | Mana Value: 2 | Power: 2
+Text: When this creature enters, target creature you control gets +2/+2 until end of turn. // Creatures your opponents control get -1/-1 until end of turn. (Then exile this card. You may cast the creature later from exile.)
+
+Card Name: Threadbind Clique // Rip the Seams (#239) | Spoiled date: 2023-08-17
+Rarity: uncommon | Mana Value: 4 | Power: 3
+Text: Flying // Destroy target tapped creature. (Then exile this card. You may cast the creature later from exile.)
+
+Card Name: Soul-Guide Lantern (#251) | Spoiled date: 2023-08-17
+Rarity: uncommon | Mana Value: 1 | Power: 
+Text: When this artifact enters, exile target card from a graveyard. / {T}, Sacrifice this artifact: Exile each opponent's graveyard. / {1}, {T}, Sacrifice this artifact: Draw a card.
+
+Card Name: Three Bowls of Porridge (#253) | Spoiled date: 2023-08-17
+Rarity: uncommon | Mana Value: 2 | Power: 
+Text: {2}, {T}: Choose one that hasn't been chosen — / • This artifact deals 2 damage to target creature. / • Tap target creature. / • Sacrifice this artifact. You gain 3 life.
+
+Card Name: Restless Spire (#260) | Spoiled date: 2023-08-17
+Rarity: rare | Mana Value: 0 | Power: 
+Text: This land enters tapped. / {T}: Add {U} or {R}. / {U}{R}: Until end of turn, this land becomes a 2/1 blue and red Elemental creature with "During your turn, this creature has first strike." It's still a land. / Whenever this land attacks, scry 1.
+
+Card Name: Archon of the Wild Rose (#1) | Spoiled date: 2023-08-18
+Rarity: rare | Mana Value: 4 | Power: 4
+Text: Flying / Other creatures you control that are enchanted by Auras you control have base power and toughness 4/4 and have flying.
+
+Card Name: Armory Mice (#3) | Spoiled date: 2023-08-18
+Rarity: common | Mana Value: 2 | Power: 3
+Text: Celebration — This creature gets +0/+2 as long as two or more nonland permanents entered the battlefield under your control this turn.
+
+Card Name: Eerie Interference (#12) | Spoiled date: 2023-08-18
+Rarity: uncommon | Mana Value: 3 | Power: 
+Text: Prevent all damage that would be dealt to you and creatures you control this turn by creatures.
+
+Card Name: Asinine Antics (#42) | Spoiled date: 2023-08-18
+Rarity: mythic | Mana Value: 4 | Power: 
+Text: You may cast this spell as though it had flash if you pay {2} more to cast it. / For each creature your opponents control, create a Cursed Role token attached to that creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature is 1/1.)
+
+Card Name: Into the Fae Court (#57) | Spoiled date: 2023-08-18
+Rarity: common | Mana Value: 5 | Power: 
+Text: Draw three cards. Create a 1/1 blue Faerie creature token with flying and "This token can block only creatures with flying."
+
+Card Name: Back for Seconds (#80) | Spoiled date: 2023-08-18
+Rarity: uncommon | Mana Value: 3 | Power: 
+Text: Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.) / Return up to two target creature cards from your graveyard to your hand. If this spell was bargained, you may put one of those cards with mana value 4 or less onto the battlefield instead of putting it into your hand.
+
+Card Name: Faerie Fencing (#90) | Spoiled date: 2023-08-18
+Rarity: uncommon | Mana Value: 1 | Power: 
+Text: Target creature gets -X/-X until end of turn. That creature gets an additional -3/-3 until end of turn if you controlled a Faerie as you cast this spell.
+
+Card Name: Charming Scoundrel (#124) | Spoiled date: 2023-08-18
+Rarity: rare | Mana Value: 2 | Power: 1
+Text: Haste / When this creature enters, choose one — / • Discard a card, then draw a card. / • Create a Treasure token. / • Create a Wicked Role token attached to target creature you control.
+
+Card Name: Imodane, the Pyrohammer (#137) | Spoiled date: 2023-08-18
+Rarity: rare | Mana Value: 4 | Power: 4
+Text: Whenever an instant or sorcery spell you control that targets only a single creature deals damage to that creature, Imodane deals that much damage to each opponent.
+
+Card Name: Korvold and the Noble Thief (#139) | Spoiled date: 2023-08-18
+Rarity: uncommon | Mana Value: 4 | Power: 
+Text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.) / I, II — Create a Treasure token. (It's an artifact with "{T}, Sacrifice this token: Add one mana of any color.") / III — Exile the top three cards of target opponent's library. You may play those cards this turn.
+
+Card Name: Raging Battle Mouse (#143) | Spoiled date: 2023-08-18
+Rarity: rare | Mana Value: 2 | Power: 2
+Text: The second spell you cast each turn costs {1} less to cast. / Celebration — At the beginning of combat on your turn, if two or more nonland permanents entered the battlefield under your control this turn, target creature you control gets +1/+1 until end of turn.
+
+Card Name: Rotisserie Elemental (#148) | Spoiled date: 2023-08-18
+Rarity: rare | Mana Value: 1 | Power: 1
+Text: Menace / Whenever this creature deals combat damage to a player, put a skewer counter on this creature. Then you may sacrifice it. If you do, exile the top X cards of your library, where X is the number of skewer counters on this creature. You may play those cards this turn.
+
+Card Name: Two-Headed Hunter // Twice the Rage (#155) | Spoiled date: 2023-08-18
+Rarity: uncommon | Mana Value: 5 | Power: 5
+Text: Menace (This creature can't be blocked except by two or more creatures.) // Target creature gains double strike until end of turn. (Then exile this card. You may cast the creature later from exile.)
+
+Card Name: Night of the Sweets' Revenge (#178) | Spoiled date: 2023-08-18
+Rarity: uncommon | Mana Value: 4 | Power: 
+Text: When this enchantment enters, create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.") / Foods you control have "{T}: Add {G}." / {5}{G}{G}, Sacrifice this enchantment: Creatures you control get +X/+X until end of turn, where X is the number of Foods you control. Activate only as a sorcery.
+
+Card Name: Royal Treatment (#183) | Spoiled date: 2023-08-18
+Rarity: uncommon | Mana Value: 1 | Power: 
+Text: Target creature you control gains hexproof until end of turn. Create a Royal Role token attached to that creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has ward {1}.)
+
+Card Name: Picnic Ruiner // Stolen Goodies (#232) | Spoiled date: 2023-08-18
+Rarity: uncommon | Mana Value: 2 | Power: 2
+Text: Whenever this creature attacks while you control a creature with power 4 or greater, this creature gains double strike until end of turn. // Distribute three +1/+1 counters among any number of target creatures you control.
+
+Card Name: Tempest Hart // Scan the Clouds (#238) | Spoiled date: 2023-08-18
+Rarity: uncommon | Mana Value: 4 | Power: 3
+Text: Trample / Whenever you cast a spell with mana value 5 or greater, put a +1/+1 counter on this creature. // Draw two cards, then discard two cards. (Then exile this card. You may cast the creature later from exile.)
+
+Card Name: Hylda's Crown of Winter (#247) | Spoiled date: 2023-08-18
+Rarity: rare | Mana Value: 3 | Power: 
+Text: {1}, {T}: Tap target creature. This ability costs {1} less to activate during your turn. / {3}, Sacrifice Hylda's Crown of Winter: Draw a card for each tapped creature your opponents control.
+
+Card Name: Charmed Clothier (#6) | Spoiled date: 2023-08-19
+Rarity: common | Mana Value: 5 | Power: 3
+Text: Flying / When this creature enters, create a Royal Role token attached to another target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has ward {1}.)
+
+Card Name: Galvanic Giant // Storm Reading (#52) | Spoiled date: 2023-08-19
+Rarity: uncommon | Mana Value: 4 | Power: 3
+Text: Whenever you cast a spell with mana value 5 or greater, tap target creature an opponent controls and put a stun counter on it. // Draw four cards, then discard two cards. (Then exile this card. You may cast the creature later from exile.)
+
+Card Name: Tangled Colony (#113) | Spoiled date: 2023-08-19
+Rarity: rare | Mana Value: 2 | Power: 3
+Text: This creature can't block. / When this creature dies, create X 1/1 black Rat creature tokens with "This token can't block," where X is the amount of damage dealt to it this turn.
+
+Card Name: Twisted Sewer-Witch (#114) | Spoiled date: 2023-08-19
+Rarity: uncommon | Mana Value: 5 | Power: 3
+Text: When this creature enters, create a 1/1 black Rat creature token with "This creature can't block." Then for each Rat you control, create a Wicked Role token attached to that Rat. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1. When this token is put into a graveyard, each opponent loses 1 life.)
+
+Card Name: Voracious Vermin (#116) | Spoiled date: 2023-08-19
+Rarity: common | Mana Value: 3 | Power: 2
+Text: When this creature enters, create a 1/1 black Rat creature token with "This token can't block." / Whenever another creature you control dies, put a +1/+1 counter on this creature.
+
+Card Name: Grand Ball Guest (#134) | Spoiled date: 2023-08-19
+Rarity: common | Mana Value: 2 | Power: 2
+Text: Celebration — This creature gets +1/+1 and has trample as long as two or more nonland permanents entered the battlefield under your control this turn.
+
+Card Name: Harried Spearguard (#135) | Spoiled date: 2023-08-19
+Rarity: common | Mana Value: 1 | Power: 1
+Text: Haste / When this creature dies, create a 1/1 black Rat creature token with "This token can't block."
+
+Card Name: Restless Bivouac (#257) | Spoiled date: 2023-08-19
+Rarity: rare | Mana Value: 0 | Power: 
+Text: This land enters tapped. / {T}: Add {R} or {W}. / {1}{R}{W}: This land becomes a 2/2 red and white Ox creature until end of turn. It's still a land. / Whenever this land attacks, put a +1/+1 counter on target creature you control.
+
+Card Name: Solitary Sanctuary (#30) | Spoiled date: 2023-08-20
+Rarity: uncommon | Mana Value: 3 | Power: 
+Text: When this enchantment enters, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.) / Whenever you tap an untapped creature an opponent controls, put a +1/+1 counter on target creature you control.
+
+Card Name: A Tale for the Ages (#34) | Spoiled date: 2023-08-20
+Rarity: rare | Mana Value: 2 | Power: 
+Text: Enchanted creatures you control get +2/+2.
+
+Card Name: Belligerent of the Ball (#120) | Spoiled date: 2023-08-20
+Rarity: uncommon | Mana Value: 3 | Power: 3
+Text: Celebration — At the beginning of combat on your turn, if two or more nonland permanents entered the battlefield under your control this turn, target creature you control gets +1/+0 and gains menace until end of turn. (It can't be blocked except by two or more creatures.)
+
+Card Name: Cheeky House-Mouse // Squeak By (#7) | Spoiled date: 2023-08-21
+Rarity: uncommon | Mana Value: 1 | Power: 2
+Text: // Target creature you control gets +1/+1 until end of turn. It can't be blocked by creatures with power 3 or greater this turn.
+
+Card Name: Kellan's Lightblades (#18) | Spoiled date: 2023-08-21
+Rarity: common | Mana Value: 2 | Power: 
+Text: Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.) / Kellan's Lightblades deals 3 damage to target attacking or blocking creature. If this spell was bargained, destroy that creature instead.
+
+Card Name: Freeze in Place (#50) | Spoiled date: 2023-08-21
+Rarity: common | Mana Value: 2 | Power: 
+Text: Tap target creature an opponent controls and put three stun counters on it. Scry 2. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+
+Card Name: Mocking Sprite (#62) | Spoiled date: 2023-08-21
+Rarity: common | Mana Value: 3 | Power: 2
+Text: Flying / Instant and sorcery spells you cast cost {1} less to cast.
+
+Card Name: Picklock Prankster // Free the Fae (#64) | Spoiled date: 2023-08-21
+Rarity: uncommon | Mana Value: 2 | Power: 1
+Text: Flying, vigilance // Mill four cards. Then put an instant, sorcery, or Faerie card from among the milled cards into your hand.
+
+Card Name: Spell Stutter (#69) | Spoiled date: 2023-08-21
+Rarity: common | Mana Value: 2 | Power: 
+Text: Counter target spell unless its controller pays {2} plus an additional {1} for each Faerie you control.
+
+Card Name: Water Wings (#77) | Spoiled date: 2023-08-21
+Rarity: common | Mana Value: 2 | Power: 
+Text: Until end of turn, target creature you control has base power and toughness 4/4 and gains flying and hexproof. (It can't be the target of spells or abilities your opponents control.)
+
+Card Name: Boundary Lands Ranger (#123) | Spoiled date: 2023-08-21
+Rarity: uncommon | Mana Value: 2 | Power: 2
+Text: At the beginning of combat on your turn, if you control a creature with power 4 or greater, you may discard a card. If you do, draw a card.
+
+Card Name: Frantic Firebolt (#130) | Spoiled date: 2023-08-21
+Rarity: common | Mana Value: 3 | Power: 
+Text: Frantic Firebolt deals X damage to target creature, where X is 2 plus the number of cards in your graveyard that are instant cards, sorcery cards, and/or have an Adventure.
+
+Card Name: Goddric, Cloaked Reveler (#132) | Spoiled date: 2023-08-21
+Rarity: rare | Mana Value: 3 | Power: 3
+Text: Haste / Celebration — As long as two or more nonland permanents entered the battlefield under your control this turn, Goddric is a Dragon with base power and toughness 4/4, flying, and "{R}: Dragons you control get +1/+0 until end of turn." (He loses all other creature types.)
+
+Card Name: Hearth Elemental // Stoke Genius (#136) | Spoiled date: 2023-08-21
+Rarity: uncommon | Mana Value: 6 | Power: 4
+Text: This spell costs {X} less to cast, where X is the number of cards in your graveyard that are instant cards, sorcery cards, and/or have an Adventure. // Discard your hand, then draw two cards. (Then exile this card. You may cast the creature later from exile.)
+
+Card Name: Graceful Takedown (#171) | Spoiled date: 2023-08-21
+Rarity: uncommon | Mana Value: 2 | Power: 
+Text: Any number of target enchanted creatures you control and up to one other target creature you control each deal damage equal to their power to target creature you don't control.
+
+Card Name: Gruff Triplets (#172) | Spoiled date: 2023-08-21
+Rarity: rare | Mana Value: 6 | Power: 3
+Text: Trample / When this creature enters, if it isn't a token, create two tokens that are copies of it. / When this creature dies, put a number of +1/+1 counters equal to its power on each creature you control named Gruff Triplets.
+
+Card Name: Sentinel of Lost Lore (#184) | Spoiled date: 2023-08-21
+Rarity: rare | Mana Value: 3 | Power: 3
+Text: When this creature enters, choose one or more — / • Return target card you own in exile that has an Adventure to your hand. / • Put target card you don't own in exile that has an Adventure on the bottom of its owner's library. / • Exile target player's graveyard.
+
+Card Name: Up the Beanstalk (#195) | Spoiled date: 2023-08-21
+Rarity: uncommon | Mana Value: 2 | Power: 
+Text: When this enchantment enters and whenever you cast a spell with mana value 5 or greater, draw a card.
+
+Card Name: Welcome to Sweettooth (#198) | Spoiled date: 2023-08-21
+Rarity: uncommon | Mana Value: 2 | Power: 
+Text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.) / I — Create a 1/1 white Human creature token. / II — Create a Food token. / III — Put X +1/+1 counters on target creature you control, where X is one plus the number of Foods you control.
+
+Card Name: Yenna, Redtooth Regent (#219) | Spoiled date: 2023-08-21
+Rarity: rare | Mana Value: 4 | Power: 4
+Text: {2}, {T}: Choose target enchantment you control that doesn't have the same name as another permanent you control. Create a token that's a copy of it, except it isn't legendary. If the token is an Aura, untap Yenna, then scry 2. Activate only as a sorcery.
+
+Card Name: Devouring Sugarmaw // Have for Dinner (#224) | Spoiled date: 2023-08-21
+Rarity: rare | Mana Value: 4 | Power: 6
+Text: Menace, trample / At the beginning of your upkeep, you may sacrifice an artifact, enchantment, or token. If you don't, tap this creature. // Create a 1/1 white Human creature token and a Food token. (Then exile this card. You may cast the creature later from exile.)
+
+Card Name: Gingerbread Hunter // Puny Snack (#227) | Spoiled date: 2023-08-21
+Rarity: uncommon | Mana Value: 5 | Power: 5
+Text: When this creature enters, create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.") // Target creature gets -2/-2 until end of turn. (Then exile this card. You may cast the creature later from exile.)
+
+Card Name: Heartflame Duelist // Heartflame Slash (#228) | Spoiled date: 2023-08-21
+Rarity: rare | Mana Value: 2 | Power: 3
+Text: Instant and sorcery spells you control have lifelink. // Heartflame Slash deals 3 damage to any target. (Then exile this card. You may cast the creature later from exile.)
+
+Card Name: Pollen-Shield Hare // Hare Raising (#233) | Spoiled date: 2023-08-21
+Rarity: rare | Mana Value: 2 | Power: 2
+Text: Creature tokens you control get +1/+1. // Target creature you control gains vigilance and gets +X/+X until end of turn, where X is the number of creatures you control.
+
+Card Name: Spellscorn Coven // Take It Back (#237) | Spoiled date: 2023-08-21
+Rarity: uncommon | Mana Value: 4 | Power: 2
+Text: Flying / When this creature enters, each opponent discards a card. // Return target spell to its owner's hand. (Then exile this card. You may cast the creature later from exile.)
+
+Card Name: Prophetic Prism (#249) | Spoiled date: 2023-08-21
+Rarity: common | Mana Value: 2 | Power: 
+Text: When this artifact enters, draw a card. / {1}, {T}: Add one mana of any color.
+
+Card Name: Faerie Slumber Party (#311) | Spoiled date: 2023-08-21
+Rarity: rare | Mana Value: 6 | Power: 
+Text: Return all creatures to their owners' hands. For each opponent who controlled a creature returned this way, you create two 1/1 blue Faerie creature tokens with flying and "This token can block only creatures with flying."
+
+Card Name: Regal Bunnicorn (#25) | Spoiled date: 2023-08-22
+Rarity: rare | Mana Value: 2 | Power: 
+Text: Regal Bunnicorn's power and toughness are each equal to the number of nonland permanents you control.
+
+Card Name: Aquatic Alchemist // Bubble Up (#40) | Spoiled date: 2023-08-22
+Rarity: common | Mana Value: 2 | Power: 1
+Text: Whenever you cast your first instant or sorcery spell each turn, this creature gets +2/+0 until end of turn. // Put target instant or sorcery card from your graveyard on top of your library. (Then exile this card. You may cast the creature later from exile.)
+
+Card Name: Disdainful Stroke (#47) | Spoiled date: 2023-08-22
+Rarity: uncommon | Mana Value: 2 | Power: 
+Text: Counter target spell with mana value 4 or greater.
+
+Card Name: Sleep-Cursed Faerie (#66) | Spoiled date: 2023-08-22
+Rarity: rare | Mana Value: 1 | Power: 3
+Text: Flying, ward {2} / This creature enters tapped with three stun counters on it. (If it would become untapped, remove a stun counter from it instead.) / {1}{U}: Untap this creature.
+
+Card Name: Snaremaster Sprite (#68) | Spoiled date: 2023-08-22
+Rarity: common | Mana Value: 1 | Power: 1
+Text: Flying / When this creature enters, you may pay {2}. When you do, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+
+Card Name: Succumb to the Cold (#72) | Spoiled date: 2023-08-22
+Rarity: uncommon | Mana Value: 3 | Power: 
+Text: Tap one or two target creatures an opponent controls. Put a stun counter on each of them. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+
+Card Name: Candy Grapple (#83) | Spoiled date: 2023-08-22
+Rarity: common | Mana Value: 2 | Power: 
+Text: Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.) / Target creature gets -3/-3 until end of turn. If this spell was bargained, that creature gets -5/-5 until end of turn instead.
+
+Card Name: Dream Spoilers (#85) | Spoiled date: 2023-08-22
+Rarity: uncommon | Mana Value: 4 | Power: 2
+Text: Flying / Whenever you cast a spell during an opponent's turn, up to one target creature an opponent controls gets -1/-1 until end of turn.
+
+Card Name: Rankle's Prank (#102) | Spoiled date: 2023-08-22
+Rarity: rare | Mana Value: 4 | Power: 
+Text: Choose one or more — / • Each player discards two cards. / • Each player loses 4 life. / • Each player sacrifices two creatures of their choice.
+
+Card Name: Scream Puff (#105) | Spoiled date: 2023-08-22
+Rarity: common | Mana Value: 5 | Power: 4
+Text: Deathtouch / Whenever this creature deals combat damage to a player, create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.")
+
+Card Name: The Witch's Vanity (#119) | Spoiled date: 2023-08-22
+Rarity: uncommon | Mana Value: 2 | Power: 
+Text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.) / I — Destroy target creature an opponent controls with mana value 2 or less. / II — Create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.") / III — Create a Wicked Role token attached to target creature you control.
+
+Card Name: Food Fight (#129) | Spoiled date: 2023-08-22
+Rarity: rare | Mana Value: 2 | Power: 
+Text: Artifacts you control have "{2}, Sacrifice this artifact: It deals damage to any target equal to 1 plus the number of permanents named Food Fight you control."
+
+Card Name: Unruly Catapult (#156) | Spoiled date: 2023-08-22
+Rarity: common | Mana Value: 3 | Power: 0
+Text: Defender / {T}: This creature deals 1 damage to each opponent. / Whenever you cast an instant or sorcery spell, untap this creature.
+
+Card Name: Witchstalker Frenzy (#159) | Spoiled date: 2023-08-22
+Rarity: uncommon | Mana Value: 4 | Power: 
+Text: This spell costs {1} less to cast for each creature that attacked this turn. / Witchstalker Frenzy deals 5 damage to target creature.
+
+Card Name: Feral Encounter (#169) | Spoiled date: 2023-08-22
+Rarity: rare | Mana Value: 2 | Power: 
+Text: Look at the top five cards of your library. You may exile a creature card from among them. Put the rest on the bottom of your library in a random order. You may cast the exiled card this turn. At the beginning of the next combat phase this turn, target creature you control deals damage equal to its power to up to one target creature you don't control.
+
+Card Name: Redtooth Vanguard (#180) | Spoiled date: 2023-08-22
+Rarity: uncommon | Mana Value: 2 | Power: 3
+Text: Trample / Whenever an enchantment you control enters, you may pay {2}. If you do, return this card from your graveyard to your hand.
+
+Card Name: Elusive Otter // Grove's Bounty (#225) | Spoiled date: 2023-08-22
+Rarity: rare | Mana Value: 1 | Power: 1
+Text: Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.) / Creatures with power less than this creature's power can't block it. // Distribute X +1/+1 counters among any number of target creatures you control. (Then exile this card. You may cast the creature later from exile.)
+
+Card Name: Mosswood Dreadknight // Dread Whispers (#231) | Spoiled date: 2023-08-22
+Rarity: rare | Mana Value: 2 | Power: 3
+Text: Trample / When this creature dies, you may cast it from your graveyard as an Adventure until the end of your next turn. // You draw a card and you lose 1 life. (Then exile this card. You may cast the creature later from exile.)
+
+Card Name: Questing Druid // Seek the Beast (#234) | Spoiled date: 2023-08-22
+Rarity: rare | Mana Value: 2 | Power: 1
+Text: Whenever you cast a spell that's white, blue, black, or red, put a +1/+1 counter on this creature. // Exile the top two cards of your library. Until your next end step, you may play those cards.
+
+Card Name: Candy Trail (#243) | Spoiled date: 2023-08-22
+Rarity: common | Mana Value: 1 | Power: 
+Text: When this artifact enters, scry 2. / {2}, {T}, Sacrifice this artifact: You gain 3 life and draw a card.
+
+Card Name: Collector's Vault (#244) | Spoiled date: 2023-08-22
+Rarity: uncommon | Mana Value: 2 | Power: 
+Text: {2}, {T}: Draw a card, then discard a card. Create a Treasure token. (It's an artifact with "{T}, Sacrifice this token: Add one mana of any color.")
+
+Card Name: Eriette's Tempting Apple (#245) | Spoiled date: 2023-08-22
+Rarity: uncommon | Mana Value: 4 | Power: 
+Text: When Eriette's Tempting Apple enters, gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. / {2}, {T}, Sacrifice Eriette's Tempting Apple: You gain 3 life. / {2}, {T}, Sacrifice Eriette's Tempting Apple: Target opponent loses 3 life.
+
+Card Name: Gingerbrute (#246) | Spoiled date: 2023-08-22
+Rarity: common | Mana Value: 1 | Power: 1
+Text: Haste (This creature can attack and {T} as soon as it comes under your control.) / {1}: This creature can't be blocked this turn except by creatures with haste. / {2}, {T}, Sacrifice this creature: You gain 3 life.
+
+Card Name: The Irencrag (#248) | Spoiled date: 2023-08-22
+Rarity: rare | Mana Value: 2 | Power: 
+Text: {T}: Add {C}. / Whenever a legendary creature you control enters, you may have The Irencrag become a legendary Equipment artifact named Everflame, Heroes' Legacy. If you do, it gains equip {3} and "Equipped creature gets +3/+3" and loses all other abilities.
+
+Card Name: Restless Vinestalk (#261) | Spoiled date: 2023-08-22
+Rarity: rare | Mana Value: 0 | Power: 
+Text: This land enters tapped. / {T}: Add {G} or {U}. / {3}{G}{U}: Until end of turn, this land becomes a 5/5 green and blue Plant creature with trample. It's still a land. / Whenever this land attacks, up to one other target creature has base power and toughness 3/3 until end of turn.
+
+Card Name: Food Coma (#308) | Spoiled date: 2023-08-22
+Rarity: uncommon | Mana Value: 4 | Power: 
+Text: When this enchantment enters, exile target creature an opponent controls until this enchantment leaves the battlefield. Create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.")
+
+Card Name: Lady of Laughter (#309) | Spoiled date: 2023-08-22
+Rarity: rare | Mana Value: 5 | Power: 4
+Text: Flying / Celebration — At the beginning of your end step, if two or more nonland permanents entered the battlefield under your control this turn, draw a card.
+
+Card Name: Pests of Honor (#310) | Spoiled date: 2023-08-22
+Rarity: uncommon | Mana Value: 3 | Power: 2
+Text: Celebration — At the beginning of combat on your turn, if two or more nonland permanents entered the battlefield under your control this turn, put a +1/+1 counter on this creature.
+
+Card Name: Rowdy Research (#312) | Spoiled date: 2023-08-22
+Rarity: uncommon | Mana Value: 7 | Power: 
+Text: This spell costs {1} less to cast for each creature that attacked this turn. / Draw three cards.
+
+Card Name: Storyteller Pixie (#313) | Spoiled date: 2023-08-22
+Rarity: uncommon | Mana Value: 4 | Power: 3
+Text: Flying / Whenever you cast an Adventure spell, draw a card.
+
+Card Name: Experimental Confectioner (#314) | Spoiled date: 2023-08-22
+Rarity: uncommon | Mana Value: 3 | Power: 2
+Text: When this creature enters, create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.") / Whenever you sacrifice a Food, create a 1/1 black Rat creature token with "This token can't block."
+
+Card Name: Malevolent Witchkite (#315) | Spoiled date: 2023-08-22
+Rarity: rare | Mana Value: 6 | Power: 5
+Text: Flying / When this creature enters, sacrifice any number of artifacts, enchantments, and/or tokens, then draw that many cards.
+
+Card Name: Old Flitterfang (#316) | Spoiled date: 2023-08-22
+Rarity: uncommon | Mana Value: 5 | Power: 3
+Text: Flying / At the beginning of each end step, if a creature died this turn, create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.") / {2}{B}, Sacrifice another creature or artifact: Old Flitterfang gets +2/+2 until end of turn.
+
+Card Name: Become Brutes (#317) | Spoiled date: 2023-08-22
+Rarity: uncommon | Mana Value: 2 | Power: 
+Text: One or two target creatures each gain haste until end of turn. For each of those creatures, create a Monster Role token attached to it. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has trample.)
+
+Card Name: Charging Hooligan (#318) | Spoiled date: 2023-08-22
+Rarity: uncommon | Mana Value: 4 | Power: 3
+Text: Whenever this creature attacks, it gets +1/+0 until end of turn for each attacking creature. If a Rat is attacking, this creature gains trample until end of turn.
+
+Card Name: Ogre Chitterlord (#319) | Spoiled date: 2023-08-22
+Rarity: rare | Mana Value: 6 | Power: 6
+Text: Menace / Whenever this creature enters or attacks, create two 1/1 black Rat creature tokens with "This token can't block." Then if you control five or more Rats, each Rat you control gets +2/+0 until end of turn.
+
+Card Name: Intrepid Trufflesnout // Go Hog Wild (#320) | Spoiled date: 2023-08-22
+Rarity: uncommon | Mana Value: 2 | Power: 3
+Text: Whenever this creature attacks alone, create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.") // Target creature gets +2/+2 until end of turn. (Then exile this card. You may cast the creature later from exile.)
+
+Card Name: Provisions Merchant (#321) | Spoiled date: 2023-08-22
+Rarity: uncommon | Mana Value: 4 | Power: 3
+Text: When this creature enters, create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.") / Whenever this creature attacks, you may sacrifice a Food. If you do, attacking creatures get +1/+1 and gain trample until end of turn.
+
+Card Name: Wildwood Mentor (#322) | Spoiled date: 2023-08-22
+Rarity: rare | Mana Value: 3 | Power: 1
+Text: Whenever a token you control enters, put a +1/+1 counter on this creature. / Whenever this creature attacks, another target attacking creature gets +X/+X until end of turn, where X is this creature's power.
+
+Card Name: Horned Loch-Whale // Lagoon Breach (#53) | Spoiled date: 2023-08-23
+Rarity: rare | Mana Value: 6 | Power: 6
+Text: Flash / Ward {2} / This creature enters tapped unless it's your turn. // The owner of target attacking creature you don't control puts it on their choice of the top or bottom of their library.
+
+Card Name: Quick Study (#65) | Spoiled date: 2023-08-23
+Rarity: common | Mana Value: 3 | Power: 
+Text: Draw two cards.
+
+Card Name: Gumdrop Poisoner // Tempt with Treats (#93) | Spoiled date: 2023-08-23
+Rarity: rare | Mana Value: 3 | Power: 3
+Text: Lifelink / When this creature enters, up to one target creature gets -X/-X until end of turn, where X is the amount of life you gained this turn. // Create a Food token. (Then exile this card. You may cast the creature later from exile.)
+
+Card Name: Song of Totentanz (#150) | Spoiled date: 2023-08-23
+Rarity: rare | Mana Value: 1 | Power: 
+Text: Create X 1/1 black Rat creature tokens with "This token can't block." Creatures you control gain haste until end of turn.
+
+Card Name: Virtue of Courage // Embereth Blaze (#157) | Spoiled date: 2023-08-23
+Rarity: mythic | Mana Value: 5 | Power: 
+Text: Whenever a source you control deals noncombat damage to an opponent, you may exile that many cards from the top of your library. You may play those cards this turn. // Embereth Blaze deals 2 damage to any target. (Then exile this card. You may cast the enchantment later from exile.)
+
+Card Name: Virtue of Strength // Garenbrig Growth (#197) | Spoiled date: 2023-08-23
+Rarity: mythic | Mana Value: 7 | Power: 
+Text: If you tap a basic land for mana, it produces three times as much of that mana instead. // Return target creature or land card from your graveyard to your hand. (Then exile this card. You may cast the enchantment later from exile.)
+
+Card Name: Imodane's Recruiter // Train Troops (#229) | Spoiled date: 2023-08-23
+Rarity: uncommon | Mana Value: 3 | Power: 2
+Text: When this creature enters, creatures you control get +1/+0 and gain haste until end of turn. // Create two 2/2 white Knight creature tokens with vigilance. (Then exile this card. You may cast the creature later from exile.)
+
+Card Name: Twining Twins // Swift Spiral (#240) | Spoiled date: 2023-08-23
+Rarity: rare | Mana Value: 4 | Power: 4
+Text: Flying, vigilance, ward {1} // Exile target nontoken creature. Return it to the battlefield under its owner's control at the beginning of the next end step.
+
+Card Name: Woodland Acolyte // Mend the Wilds (#241) | Spoiled date: 2023-08-23
+Rarity: uncommon | Mana Value: 3 | Power: 2
+Text: When this creature enters, draw a card. // Put target permanent card from your graveyard on top of your library. (Then exile this card. You may cast the creature later from exile.)
+
+Card Name: Archon's Glory (#2) | Spoiled date: unknown
+Rarity: common | Mana Value: 1 | Power: 
+Text: Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.) / Target creature gets +2/+2 until end of turn. If this spell was bargained, that creature also gains flying and lifelink until end of turn.
+
+Card Name: Cooped Up (#8) | Spoiled date: unknown
+Rarity: common | Mana Value: 2 | Power: 
+Text: Enchant creature / Enchanted creature can't attack or block. / {2}{W}: Exile enchanted creature.
+
+Card Name: Frostbridge Guard (#14) | Spoiled date: unknown
+Rarity: common | Mana Value: 2 | Power: 2
+Text: {2}{W}, {T}: Tap target creature.
+
+Card Name: Hopeful Vigil (#17) | Spoiled date: unknown
+Rarity: common | Mana Value: 2 | Power: 
+Text: When this enchantment enters, create a 2/2 white Knight creature token with vigilance. / When this enchantment is put into a graveyard from the battlefield, scry 2. / {2}{W}: Sacrifice this enchantment.
+
+Card Name: Moment of Valor (#20) | Spoiled date: unknown
+Rarity: common | Mana Value: 3 | Power: 
+Text: Choose one — / • Untap target creature. It gets +1/+0 and gains indestructible until end of turn. / • Destroy target creature with power 4 or greater.
+
+Card Name: Plunge into Winter (#22) | Spoiled date: unknown
+Rarity: common | Mana Value: 2 | Power: 
+Text: Tap up to one target creature. Scry 1, then draw a card.
+
+Card Name: Protective Parents (#24) | Spoiled date: unknown
+Rarity: common | Mana Value: 3 | Power: 3
+Text: When this creature dies, create a Young Hero Role token attached to up to one target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature has "Whenever this creature attacks, if its toughness is 3 or less, put a +1/+1 counter on it.")
+
+Card Name: Rimefur Reindeer (#27) | Spoiled date: unknown
+Rarity: common | Mana Value: 4 | Power: 3
+Text: Whenever an enchantment you control enters, tap target creature an opponent controls.
+
+Card Name: Savior of the Sleeping (#28) | Spoiled date: unknown
+Rarity: common | Mana Value: 3 | Power: 2
+Text: Vigilance / Whenever an enchantment you control is put into a graveyard from the battlefield, put a +1/+1 counter on this creature.
+
+Card Name: Slumbering Keepguard (#29) | Spoiled date: unknown
+Rarity: common | Mana Value: 1 | Power: 1
+Text: Whenever an enchantment you control enters, scry 1. / {2}{W}: This creature gets +1/+1 until end of turn for each enchantment you control.
+
+Card Name: Stockpiling Celebrant (#32) | Spoiled date: unknown
+Rarity: common | Mana Value: 3 | Power: 3
+Text: When this creature enters, you may return another target nonland permanent you control to its owner's hand. If you do, scry 2.
+
+Card Name: Tuinvale Guide (#36) | Spoiled date: unknown
+Rarity: common | Mana Value: 4 | Power: 2
+Text: Flying / Celebration — This creature gets +1/+0 and has lifelink as long as two or more nonland permanents entered the battlefield under your control this turn.
+
+Card Name: Unassuming Sage (#37) | Spoiled date: unknown
+Rarity: common | Mana Value: 2 | Power: 2
+Text: When this creature enters, you may pay {2}. If you do, create a Sorcerer Role token attached to it. (Enchanted creature gets +1/+1 and has "Whenever this creature attacks, scry 1.")
+
+Card Name: Archive Dragon (#41) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 6 | Power: 4
+Text: Flying / Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.) / When this creature enters, scry 2.
+
+Card Name: Beluna's Gatekeeper // Entry Denied (#43) | Spoiled date: unknown
+Rarity: common | Mana Value: 6 | Power: 6
+Text: // Return target creature you don't control with mana value 3 or less to its owner's hand. (Then exile this card. You may cast the creature later from exile.)
+
+Card Name: Diminisher Witch (#46) | Spoiled date: unknown
+Rarity: common | Mana Value: 3 | Power: 3
+Text: Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.) / When this creature enters, if it was bargained, create a Cursed Role token attached to target creature an opponent controls. (If you control another Role on it, put that one into the graveyard. Enchanted creature is 1/1.)
+
+Card Name: Merfolk Coralsmith (#60) | Spoiled date: unknown
+Rarity: common | Mana Value: 3 | Power: 2
+Text: {1}: This creature gets +1/-1 until end of turn. / When this creature dies, scry 2.
+
+Card Name: Misleading Motes (#61) | Spoiled date: unknown
+Rarity: common | Mana Value: 4 | Power: 
+Text: Target creature's owner puts it on their choice of the top or bottom of their library.
+
+Card Name: Obyra's Attendants // Desperate Parry (#63) | Spoiled date: unknown
+Rarity: common | Mana Value: 5 | Power: 3
+Text: Flying // Target creature gets -4/-0 until end of turn. (Then exile this card. You may cast the creature later from exile.)
+
+Card Name: Stormkeld Prowler (#71) | Spoiled date: unknown
+Rarity: common | Mana Value: 2 | Power: 2
+Text: Whenever you cast a spell with mana value 5 or greater, put two +1/+1 counters on this creature.
+
+Card Name: Tenacious Tomeseeker (#74) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 3 | Power: 3
+Text: Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.) / When this creature enters, if it was bargained, return target instant or sorcery card from your graveyard to your hand.
+
+Card Name: Vantress Transmuter // Croaking Curse (#75) | Spoiled date: unknown
+Rarity: common | Mana Value: 4 | Power: 3
+Text: // Tap target creature. Create a Cursed Role token attached to it. (Enchanted creature is 1/1.)
+
+Card Name: Barrow Naughty (#81) | Spoiled date: unknown
+Rarity: common | Mana Value: 2 | Power: 1
+Text: Flying / This creature has lifelink as long as you control another Faerie. / {2}{B}: This creature gets +1/+0 until end of turn.
+
+Card Name: Ego Drain (#86) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 1 | Power: 
+Text: Target opponent reveals their hand. You choose a nonland card from it. That player discards that card. If you don't control a Faerie, exile a card from your hand.
+
+Card Name: The End (#87) | Spoiled date: unknown
+Rarity: rare | Mana Value: 4 | Power: 
+Text: This spell costs {2} less to cast if your life total is 5 or less. / Exile target creature or planeswalker. Search its controller's graveyard, hand, and library for any number of cards with the same name as that permanent and exile them. That player shuffles, then draws a card for each card exiled from their hand this way.
+
+Card Name: Eriette's Whisper (#88) | Spoiled date: unknown
+Rarity: common | Mana Value: 4 | Power: 
+Text: Target opponent discards two cards. Create a Wicked Role token attached to up to one target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1. When this token is put into a graveyard, each opponent loses 1 life.)
+
+Card Name: Feed the Cauldron (#91) | Spoiled date: unknown
+Rarity: common | Mana Value: 3 | Power: 
+Text: Destroy target creature with mana value 3 or less. If it's your turn, create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.")
+
+Card Name: Fell Horseman // Deathly Ride (#92) | Spoiled date: unknown
+Rarity: common | Mana Value: 4 | Power: 3
+Text: When this creature dies, put it on the bottom of its owner's library. // Return target creature card from your graveyard to your hand. (Then exile this card. You may cast the creature later from exile.)
+
+Card Name: High Fae Negotiator (#94) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 5 | Power: 3
+Text: Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.) / Flying / When this creature enters, if it was bargained, each opponent loses 3 life and you gain 3 life.
+
+Card Name: Mintstrosity (#100) | Spoiled date: unknown
+Rarity: common | Mana Value: 2 | Power: 3
+Text: When this creature dies, create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.")
+
+Card Name: Shatter the Oath (#106) | Spoiled date: unknown
+Rarity: common | Mana Value: 5 | Power: 
+Text: Destroy target creature or enchantment. Create a Wicked Role token attached to up to one target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1. When this token is put into a graveyard, each opponent loses 1 life.)
+
+Card Name: Stingblade Assassin (#109) | Spoiled date: unknown
+Rarity: common | Mana Value: 4 | Power: 3
+Text: Flash / Flying / When this creature enters, destroy target creature an opponent controls that was dealt damage this turn.
+
+Card Name: Sugar Rush (#110) | Spoiled date: unknown
+Rarity: common | Mana Value: 2 | Power: 
+Text: Target creature gets +3/+0 until end of turn. / Draw a card.
+
+Card Name: Wicked Visitor (#118) | Spoiled date: unknown
+Rarity: common | Mana Value: 2 | Power: 2
+Text: Whenever an enchantment you control is put into a graveyard from the battlefield, each opponent loses 1 life.
+
+Card Name: Bellowing Bruiser // Beat a Path (#121) | Spoiled date: unknown
+Rarity: common | Mana Value: 5 | Power: 4
+Text: Haste // Up to two target creatures can't block this turn. (Then exile this card. You may cast the creature later from exile.)
+
+Card Name: Bespoke Battlegarb (#122) | Spoiled date: unknown
+Rarity: common | Mana Value: 2 | Power: 
+Text: Equipped creature gets +2/+0. / Celebration — At the beginning of combat on your turn, if two or more nonland permanents entered the battlefield under your control this turn, attach this Equipment to up to one target creature you control. / Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
+
+Card Name: Edgewall Pack (#126) | Spoiled date: unknown
+Rarity: common | Mana Value: 4 | Power: 3
+Text: Menace (This creature can't be blocked except by two or more creatures.) / When this creature enters, create a 1/1 black Rat creature token with "This token can't block."
+
+Card Name: Gnawing Crescendo (#131) | Spoiled date: unknown
+Rarity: common | Mana Value: 3 | Power: 
+Text: Creatures you control get +2/+0 until end of turn. Whenever a nontoken creature you control dies this turn, create a 1/1 black Rat creature token with "This token can't block."
+
+Card Name: Grabby Giant // That's Mine (#133) | Spoiled date: unknown
+Rarity: common | Mana Value: 4 | Power: 4
+Text: Reach / {2}{R}, Sacrifice an artifact or land: Draw a card. // Create a Treasure token. (Then exile this card. You may cast the creature later from exile.)
+
+Card Name: Kindled Heroism (#138) | Spoiled date: unknown
+Rarity: common | Mana Value: 1 | Power: 
+Text: Target creature gets +1/+0 and gains first strike until end of turn. Scry 1.
+
+Card Name: Merry Bards (#140) | Spoiled date: unknown
+Rarity: common | Mana Value: 3 | Power: 3
+Text: When this creature enters, you may pay {1}. When you do, create a Young Hero Role token attached to target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature has "Whenever this creature attacks, if its toughness is 3 or less, put a +1/+1 counter on it.")
+
+Card Name: Minecart Daredevil // Ride the Rails (#141) | Spoiled date: unknown
+Rarity: common | Mana Value: 3 | Power: 4
+Text: // Target creature gets +2/+1 until end of turn. (Then exile this card. You may cast the creature later from exile.)
+
+Card Name: Redcap Thief (#147) | Spoiled date: unknown
+Rarity: common | Mana Value: 3 | Power: 2
+Text: When this creature enters, create a Treasure token. (It's an artifact with "{T}, Sacrifice this token: Add one mana of any color.")
+
+Card Name: Skewer Slinger (#149) | Spoiled date: unknown
+Rarity: common | Mana Value: 2 | Power: 1
+Text: Reach / Whenever this creature blocks or becomes blocked by a creature, this creature deals 1 damage to that creature.
+
+Card Name: Witch's Mark (#158) | Spoiled date: unknown
+Rarity: common | Mana Value: 2 | Power: 
+Text: You may discard a card. If you do, draw two cards. / Create a Wicked Role token attached to up to one target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1. When this token is put into a graveyard, each opponent loses 1 life.)
+
+Card Name: Bestial Bloodline (#162) | Spoiled date: unknown
+Rarity: common | Mana Value: 2 | Power: 
+Text: Enchant creature / Enchanted creature gets +2/+2. / {4}{G}: Return this card from your graveyard to your hand.
+
+Card Name: Commune with Nature (#166) | Spoiled date: reprint
+Rarity: common | Mana Value: 1 | Power: 
+Text: Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+
+Card Name: Curse of the Werefox (#167) | Spoiled date: unknown
+Rarity: common | Mana Value: 3 | Power: 
+Text: Create a Monster Role token attached to target creature you control. When you do, that creature fights up to one target creature you don't control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has trample. Creatures that fight each deal damage equal to their power to the other.)
+
+Card Name: Ferocious Werefox // Guard Change (#170) | Spoiled date: unknown
+Rarity: common | Mana Value: 4 | Power: 4
+Text: Trample // Create a Monster Role token attached to target creature you control. (Enchanted creature gets +1/+1 and has trample.)
+
+Card Name: Hamlet Glutton (#173) | Spoiled date: unknown
+Rarity: common | Mana Value: 7 | Power: 6
+Text: Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.) / This spell costs {2} less to cast if it's bargained. / Trample / When this creature enters, you gain 3 life.
+
+Card Name: Hollow Scavenger // Bakery Raid (#174) | Spoiled date: unknown
+Rarity: common | Mana Value: 3 | Power: 3
+Text: {1}, Sacrifice a Food: This creature gets +2/+2 until end of turn. Activate only once each turn. // Create a Food token. (Then exile this card. You may cast the creature later from exile.)
+
+Card Name: Leaping Ambush (#177) | Spoiled date: unknown
+Rarity: common | Mana Value: 1 | Power: 
+Text: Target creature gets +1/+3 and gains reach until end of turn. Untap it.
+
+Card Name: Redtooth Genealogist (#179) | Spoiled date: unknown
+Rarity: common | Mana Value: 3 | Power: 2
+Text: When this creature enters, create a Royal Role token attached to another target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has ward {1}.)
+
+Card Name: Spider Food (#186) | Spoiled date: unknown
+Rarity: common | Mana Value: 3 | Power: 
+Text: Destroy up to one target artifact, enchantment, or creature with flying. Create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.")
+
+Card Name: Stormkeld Vanguard // Bear Down (#187) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 6 | Power: 6
+Text: This creature can't be blocked by creatures with power 2 or less. // Destroy target artifact or enchantment. (Then exile this card. You may cast the creature later from exile.)
+
+Card Name: Territorial Witchstalker (#189) | Spoiled date: unknown
+Rarity: common | Mana Value: 2 | Power: 2
+Text: Defender / At the beginning of combat on your turn, if you control a creature with power 4 or greater, this creature gets +1/+0 until end of turn and can attack this turn as though it didn't have defender.
+
+Card Name: Titanic Growth (#191) | Spoiled date: reprint
+Rarity: common | Mana Value: 2 | Power: 
+Text: Target creature gets +4/+4 until end of turn.
+
+Card Name: Toadstool Admirer (#192) | Spoiled date: unknown
+Rarity: common | Mana Value: 1 | Power: 1
+Text: Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.) / {3}{G}: Put a +1/+1 counter on this creature.
+
+Card Name: Verdant Outrider (#196) | Spoiled date: unknown
+Rarity: common | Mana Value: 3 | Power: 4
+Text: {1}{G}: This creature can't be blocked by creatures with power 2 or less this turn.
+
+Card Name: Agatha of the Vile Cauldron (#199) | Spoiled date: unknown
+Rarity: mythic | Mana Value: 2 | Power: 1
+Text: Activated abilities of creatures you control cost {X} less to activate, where X is Agatha's power. This effect can't reduce the mana in that cost to less than one mana. / {4}{R}{G}: Other creatures you control get +1/+1 and gain trample and haste until end of turn.
+
+Card Name: The Apprentice's Folly (#200) | Spoiled date: unknown
+Rarity: rare | Mana Value: 4 | Power: 
+Text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.) / I, II — Choose target nontoken creature you control that doesn't have the same name as a token you control. Create a token that's a copy of it, except it isn't legendary, is a Reflection in addition to its other types, and has haste. / III — Sacrifice all Reflections you control.
+
+Card Name: Ash, Party Crasher (#201) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 2 | Power: 2
+Text: Haste / Celebration — Whenever Ash attacks, if two or more nonland permanents entered the battlefield under your control this turn, put a +1/+1 counter on Ash.
+
+Card Name: Eriette of the Charmed Apple (#202) | Spoiled date: unknown
+Rarity: mythic | Mana Value: 3 | Power: 2
+Text: Each creature that's enchanted by an Aura you control can't attack you or planeswalkers you control. / At the beginning of your end step, each opponent loses X life and you gain X life, where X is the number of Auras you control.
+
+Card Name: Faunsbane Troll (#203) | Spoiled date: unknown
+Rarity: rare | Mana Value: 4 | Power: 4
+Text: When this creature enters, create a Monster Role token attached to it. (Enchanted creature gets +1/+1 and has trample.) / {1}, Sacrifice an Aura attached to this creature: This creature fights target creature you don't control. If that creature would die this turn, exile it instead. Activate only as a sorcery.
+
+Card Name: Greta, Sweettooth Scourge (#205) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 3 | Power: 3
+Text: When Greta enters, create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.") / {G}, Sacrifice a Food: Put a +1/+1 counter on target creature. Activate only as a sorcery. / {1}{B}, Sacrifice a Food: You draw a card and you lose 1 life.
+
+Card Name: Beluna Grandsquall // Seek Thrills (#220) | Spoiled date: unknown
+Rarity: mythic | Mana Value: 3 | Power: 4
+Text: Trample / Permanent spells you cast that have an Adventure cost {1} less to cast. // Mill seven cards. Then put all cards that have an Adventure from among the milled cards into your hand.
+
+Card Name: Decadent Dragon // Expensive Taste (#223) | Spoiled date: unknown
+Rarity: rare | Mana Value: 4 | Power: 4
+Text: Flying, trample / Whenever this creature attacks, create a Treasure token. // Exile the top two cards of target opponent's library face down. You may look at and play those cards for as long as they remain exiled.
+
+Card Name: Frolicking Familiar // Blow Off Steam (#226) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 3 | Power: 2
+Text: Flying / Whenever you cast an instant or sorcery spell, this creature gets +1/+1 until end of turn. // Blow Off Steam deals 1 damage to any target. (Then exile this card. You may cast the creature later from exile.)
+
+Card Name: Scarecrow Guide (#250) | Spoiled date: unknown
+Rarity: common | Mana Value: 2 | Power: 2
+Text: Reach / {1}: Add one mana of any color. Activate only once each turn.
+
+Card Name: Crystal Grotto (#254) | Spoiled date: reprint
+Rarity: common | Mana Value: 0 | Power: 
+Text: When this land enters, scry 1. / {T}: Add {C}. / {1}, {T}: Add one mana of any color.
+
+Card Name: Evolving Wilds (#256) | Spoiled date: reprint
+Rarity: common | Mana Value: 0 | Power: 
+Text: {T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.

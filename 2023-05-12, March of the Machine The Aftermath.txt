@@ -1,0 +1,199 @@
+Card Name: The Kenriths' Royal Funeral (#34) | Spoiled date: 2023-02-19
+Rarity: rare | Mana Value: 4 | Power: 
+Text: When The Kenriths' Royal Funeral enters, exile up to two target legendary creature cards from your graveyard. You draw X cards and you lose X life, where X is the greatest mana value among cards exiled this way. / Legendary spells you cast cost {1} less to cast for each card exiled with The Kenriths' Royal Funeral.
+
+Card Name: Coppercoat Vanguard (#1) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 2 | Power: 2
+Text: Each other Human you control gets +1/+0 and has ward {1}. (Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+
+Card Name: Deification (#2) | Spoiled date: unknown
+Rarity: rare | Mana Value: 2 | Power: 
+Text: As this enchantment enters, choose a planeswalker type. / Planeswalkers you control of the chosen type have hexproof. / As long as you control a creature, if damage dealt to a planeswalker you control of the chosen type would result in all loyalty counters on it being removed, instead all but one of those counters are removed.
+
+Card Name: Harnessed Snubhorn (#3) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 4 | Power: 2
+Text: Vigilance / Whenever this creature deals combat damage to a player, return target artifact or enchantment card from your graveyard to the battlefield.
+
+Card Name: Metropolis Reformer (#4) | Spoiled date: unknown
+Rarity: rare | Mana Value: 3 | Power: 2
+Text: Flying, vigilance / You have hexproof. / Whenever this creature is dealt damage, you gain that much life.
+
+Card Name: Spark Rupture (#5) | Spoiled date: unknown
+Rarity: rare | Mana Value: 3 | Power: 
+Text: When this enchantment enters, draw a card. / Each planeswalker with one or more loyalty counters on it loses all abilities and is a creature with power and toughness each equal to the number of loyalty counters on it.
+
+Card Name: Tazri, Stalwart Survivor (#6) | Spoiled date: unknown
+Rarity: rare | Mana Value: 3 | Power: 3
+Text: Each creature you control has "{T}: Add one mana of any of this creature's colors. Spend this mana only to activate an ability of a creature. Activate only if this creature has another activated ability." / {W}{U}{B}{R}{G}, {T}: Mill five cards. Put all creature cards with activated abilities that aren't mana abilities from among the milled cards into your hand.
+
+Card Name: Filter Out (#7) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 3 | Power: 
+Text: Return all noncreature, nonland permanents to their owners' hands.
+
+Card Name: Tolarian Contempt (#8) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 5 | Power: 
+Text: When this enchantment enters, put a rejection counter on each creature your opponents control. / At the beginning of your end step, for each opponent, choose up to one target creature they control with a rejection counter on it. That creature's owner puts it on their choice of the top or bottom of their library.
+
+Card Name: Training Grounds (#9) | Spoiled date: reprint
+Rarity: rare | Mana Value: 1 | Power: 
+Text: Activated abilities of creatures you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.
+
+Card Name: Vesuvan Drifter (#10) | Spoiled date: unknown
+Rarity: rare | Mana Value: 3 | Power: 2
+Text: Flying / You may look at the top card of your library any time. / At the beginning of each combat, you may reveal the top card of your library. If you reveal a creature card this way, this creature becomes a copy of that card until end of turn, except it has flying.
+
+Card Name: Ayara's Oathsworn (#11) | Spoiled date: unknown
+Rarity: rare | Mana Value: 2 | Power: 2
+Text: Menace / Whenever this creature deals combat damage to a player, if it has fewer than four +1/+1 counters on it, put a +1/+1 counter on it. Then if it has exactly four +1/+1 counters on it, search your library for a card, put it into your hand, then shuffle.
+
+Card Name: Blot Out (#12) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 3 | Power: 
+Text: Target opponent exiles a creature or planeswalker they control with the greatest mana value among creatures and planeswalkers they control.
+
+Card Name: Death-Rattle Oni (#13) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 7 | Power: 5
+Text: Flash / This spell costs {2} less to cast for each creature that died this turn. / When this creature enters, destroy all other creatures that were dealt damage this turn.
+
+Card Name: Markov Baron (#14) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 3 | Power: 2
+Text: Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.) / Lifelink / Other Vampires you control get +1/+1. / Madness {2}{B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+
+Card Name: Urborg Scavengers (#15) | Spoiled date: unknown
+Rarity: rare | Mana Value: 3 | Power: 2
+Text: Whenever this creature enters or attacks, exile target card from a graveyard. Put a +1/+1 counter on this creature. / This creature has flying as long as a card exiled with it has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance.
+
+Card Name: Arni Metalbrow (#16) | Spoiled date: unknown
+Rarity: rare | Mana Value: 3 | Power: 3
+Text: Whenever a creature you control attacks or enters attacking, you may pay {1}{R}. If you do, you may put a creature card with mana value less than that creature's mana value from your hand onto the battlefield tapped and attacking.
+
+Card Name: Kolaghan Warmonger (#17) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 3 | Power: 3
+Text: Haste / Whenever this creature attacks, look at the top six cards of your library. You may reveal a Dragon card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+
+Card Name: Plargg and Nassari (#18) | Spoiled date: unknown
+Rarity: rare | Mana Value: 5 | Power: 5
+Text: At the beginning of your upkeep, each player exiles cards from the top of their library until they exile a nonland card. An opponent chooses a nonland card exiled this way. You may cast up to two spells from among the other cards exiled this way without paying their mana costs.
+
+Card Name: Reckless Handling (#19) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 2 | Power: 
+Text: Search your library for an artifact card, reveal it, put it into your hand, shuffle, then discard a card at random. If an artifact card was discarded this way, Reckless Handling deals 2 damage to each opponent.
+
+Card Name: Animist's Might (#20) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 3 | Power: 
+Text: This spell costs {2} less to cast if it targets a legendary creature you control. / Target creature you control deals damage equal to twice its power to target creature or planeswalker you don't control.
+
+Card Name: Leyline Immersion (#21) | Spoiled date: unknown
+Rarity: rare | Mana Value: 4 | Power: 
+Text: Enchant legendary creature / Enchanted creature has ward {2} and "{T}: Add five mana in any combination of colors. Spend this mana only to cast spells."
+
+Card Name: Nissa, Resurgent Animist (#22) | Spoiled date: unknown
+Rarity: mythic | Mana Value: 3 | Power: 3
+Text: Landfall — Whenever a land you control enters, add one mana of any color. Then if this is the second time this ability has resolved this turn, reveal cards from the top of your library until you reveal an Elf or Elemental card. Put that card into your hand and the rest on the bottom of your library in a random order.
+
+Card Name: Open the Way (#23) | Spoiled date: unknown
+Rarity: rare | Mana Value: 2 | Power: 
+Text: X can't be greater than the number of players in the game. / Reveal cards from the top of your library until you reveal X land cards. Put those land cards onto the battlefield tapped and the rest on the bottom of your library in a random order.
+
+Card Name: Tranquil Frillback (#24) | Spoiled date: unknown
+Rarity: rare | Mana Value: 3 | Power: 3
+Text: When this creature enters, you may pay {G} up to three times. When you pay this cost one or more times, choose up to that many — / • Destroy target artifact or enchantment. / • Exile target player's graveyard. / • You gain 4 life.
+
+Card Name: Undercity Upheaval (#25) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 3 | Power: 
+Text: Undergrowth — Distribute X +1/+1 counters among any number of target creatures you control, where X is the number of creature cards in your graveyard as you cast this spell. Creatures you control gain vigilance until end of turn.
+
+Card Name: Calix, Guided by Fate (#26) | Spoiled date: unknown
+Rarity: mythic | Mana Value: 3 | Power: 2
+Text: Constellation — Whenever Calix or another enchantment you control enters, put a +1/+1 counter on target creature. / Whenever Calix or an enchanted creature you control deals combat damage to a player, you may create a token that's a copy of a nonlegendary enchantment you control. Do this only once each turn.
+
+Card Name: Campus Renovation (#27) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 5 | Power: 
+Text: Return up to one target artifact or enchantment card from your graveyard to the battlefield. Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+
+Card Name: Cosmic Rebirth (#28) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 3 | Power: 
+Text: Choose target permanent card in your graveyard. If it has mana value 3 or less, you may put it onto the battlefield. If you don't put it onto the battlefield, put it into your hand. / You gain 3 life.
+
+Card Name: Danitha, New Benalia's Light (#29) | Spoiled date: unknown
+Rarity: rare | Mana Value: 3 | Power: 2
+Text: Vigilance, trample, lifelink / Once during each of your turns, you may cast an Aura or Equipment spell from your graveyard.
+
+Card Name: Feast of the Victorious Dead (#30) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 2 | Power: 
+Text: At the beginning of your end step, if one or more creatures died this turn, you gain that much life and distribute that many +1/+1 counters among any number of creatures you control.
+
+Card Name: Gold-Forged Thopteryx (#31) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 2 | Power: 1
+Text: Flying, lifelink / Each legendary permanent you control has ward {2}. (Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+
+Card Name: Jirina, Dauntless General (#32) | Spoiled date: unknown
+Rarity: rare | Mana Value: 2 | Power: 2
+Text: When Jirina enters, exile target player's graveyard. / Sacrifice Jirina: Humans you control gain hexproof and indestructible until end of turn.
+
+Card Name: Jolrael, Voice of Zhalfir (#33) | Spoiled date: unknown
+Rarity: rare | Mana Value: 4 | Power: 3
+Text: At the beginning of combat on your turn, up to one target land you control becomes an X/X green and blue Bird creature with flying and haste until end of turn, where X is the number of cards in your hand. It's still a land. / Whenever a land creature you control deals combat damage to a player, draw a card.
+
+Card Name: Kiora, Sovereign of the Deep (#35) | Spoiled date: unknown
+Rarity: mythic | Mana Value: 5 | Power: 4
+Text: Vigilance, ward {3} / Whenever you cast a Kraken, Leviathan, Octopus, or Serpent spell from your hand, look at the top X cards of your library, where X is that spell's mana value. You may cast a spell with mana value less than X from among them without paying its mana cost. Put the rest on the bottom of your library in a random order.
+
+Card Name: Nahiri, Forged in Fury (#36) | Spoiled date: unknown
+Rarity: mythic | Mana Value: 6 | Power: 5
+Text: Affinity for Equipment (This spell costs {1} less to cast for each Equipment you control.) / Whenever an equipped creature you control attacks, exile the top card of your library. You may play that card this turn. You may cast Equipment spells this way without paying their mana costs.
+
+Card Name: Nahiri's Resolve (#37) | Spoiled date: unknown
+Rarity: rare | Mana Value: 5 | Power: 
+Text: Creatures you control get +1/+0 and have haste. / At the beginning of your end step, exile any number of nontoken artifacts and/or creatures you control. Return those cards to the battlefield under their owner's control at the beginning of your next upkeep.
+
+Card Name: Narset, Enlightened Exile (#38) | Spoiled date: unknown
+Rarity: mythic | Mana Value: 4 | Power: 3
+Text: Creatures you control have prowess. / Whenever Narset attacks, exile target noncreature, nonland card with mana value less than Narset's power from a graveyard and copy it. You may cast the copy without paying its mana cost.
+
+Card Name: Nashi, Moon's Legacy (#39) | Spoiled date: unknown
+Rarity: rare | Mana Value: 3 | Power: 3
+Text: Menace, ward {1} / Whenever Nashi attacks, exile up to one target legendary or Rat card from your graveyard and copy it. You may cast the copy. (You still pay its costs. A copy of a permanent spell becomes a token.)
+
+Card Name: Niv-Mizzet, Supreme (#40) | Spoiled date: unknown
+Rarity: rare | Mana Value: 5 | Power: 5
+Text: Flying, hexproof from monocolored / Each instant and sorcery card in your graveyard that's exactly two colors has jump-start. (You may cast that card from your graveyard by discarding a card in addition to paying its other costs. Then exile it.)
+
+Card Name: Ob Nixilis, Captive Kingpin (#41) | Spoiled date: unknown
+Rarity: mythic | Mana Value: 4 | Power: 4
+Text: Flying, trample / Whenever one or more opponents each lose exactly 1 life, put a +1/+1 counter on Ob Nixilis. Exile the top card of your library. Until your next end step, you may play that card.
+
+Card Name: Pia Nalaar, Consul of Revival (#42) | Spoiled date: unknown
+Rarity: rare | Mana Value: 2 | Power: 2
+Text: Thopters you control have haste. / Whenever you play a land from exile or cast a spell from exile, create a 1/1 colorless Thopter artifact creature token with flying.
+
+Card Name: Rebuild the City (#43) | Spoiled date: unknown
+Rarity: rare | Mana Value: 6 | Power: 
+Text: Choose target land. Create three tokens that are copies of it, except they're 3/3 creatures in addition to their other types and they have vigilance and menace. (They're affected by summoning sickness.)
+
+Card Name: Rocco, Street Chef (#44) | Spoiled date: unknown
+Rarity: rare | Mana Value: 3 | Power: 2
+Text: At the beginning of your end step, each player exiles the top card of their library. Until your next end step, each player may play the card they exiled this way. / Whenever a player plays a land from exile or casts a spell from exile, you put a +1/+1 counter on target creature and create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.")
+
+Card Name: Samut, Vizier of Naktamun (#45) | Spoiled date: unknown
+Rarity: mythic | Mana Value: 3 | Power: 2
+Text: First strike, vigilance, haste / Whenever a creature you control deals combat damage to a player, if that creature entered this turn, draw a card.
+
+Card Name: Sarkhan, Soul Aflame (#46) | Spoiled date: unknown
+Rarity: mythic | Mana Value: 3 | Power: 2
+Text: Dragon spells you cast cost {1} less to cast. / Whenever a Dragon you control enters, you may have Sarkhan become a copy of it until end of turn, except its name is Sarkhan, Soul Aflame and it's legendary in addition to its other types.
+
+Card Name: Sigarda, Font of Blessings (#47) | Spoiled date: unknown
+Rarity: rare | Mana Value: 4 | Power: 4
+Text: Flying / Other permanents you control have hexproof. / You may look at the top card of your library any time. / You may cast Angel spells and Human spells from the top of your library.
+
+Card Name: Tyvar the Bellicose (#48) | Spoiled date: unknown
+Rarity: mythic | Mana Value: 4 | Power: 5
+Text: Whenever one or more Elves you control attack, they gain deathtouch until end of turn. / Each creature you control has "Whenever a mana ability of this creature resolves, put a number of +1/+1 counters on it equal to the amount of mana this creature produced. This ability triggers only once each turn."
+
+Card Name: Karn, Legacy Reforged (#49) | Spoiled date: unknown
+Rarity: mythic | Mana Value: 5 | Power: 
+Text: Karn's power and toughness are each equal to the greatest mana value among artifacts you control. / At the beginning of your upkeep, add {C} for each artifact you control. This mana can't be spent to cast nonartifact spells. Until end of turn, you don't lose this mana as steps and phases end.
+
+Card Name: Drannith Ruins (#50) | Spoiled date: unknown
+Rarity: rare | Mana Value: 0 | Power: 
+Text: {T}: Add {C}. / {2}, {T}: Put two +1/+1 counters on target non-Human creature that entered this turn.

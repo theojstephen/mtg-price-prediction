@@ -1,0 +1,1131 @@
+Card Name: The One Ring (#0) | Spoiled date: 2023-03-13
+Rarity: mythic | Mana Value: 4 | Power: 
+Text: Indestructible / When The One Ring enters, if you cast it, you gain protection from everything until your next turn. / At the beginning of your upkeep, you lose 1 life for each burden counter on The One Ring. / {T}: Put a burden counter on The One Ring, then draw a card for each burden counter on The One Ring.
+
+Card Name: Gandalf the Grey (#207) | Spoiled date: 2023-03-13
+Rarity: rare | Mana Value: 5 | Power: 3
+Text: Whenever you cast an instant or sorcery spell, choose one that hasn't been chosen — / • You may tap or untap target permanent. / • Gandalf deals 3 damage to each opponent. / • Copy target instant or sorcery spell you control. You may choose new targets for the copy. / • Put Gandalf on top of its owner's library.
+
+Card Name: Frodo, Sauron's Bane (#18) | Spoiled date: 2023-03-14
+Rarity: rare | Mana Value: 1 | Power: 1
+Text: {W/B}{W/B}: If Frodo is a Citizen, it becomes a Halfling Scout with base power and toughness 2/3 and lifelink. / {B}{B}{B}: If Frodo is a Scout, it becomes a Halfling Rogue with "Whenever this creature deals combat damage to a player, that player loses the game if the Ring has tempted you four or more times this game. Otherwise, the Ring tempts you."
+
+Card Name: Reprieve (#26) | Spoiled date: 2023-03-14
+Rarity: uncommon | Mana Value: 2 | Power: 
+Text: Return target spell to its owner's hand. / Draw a card.
+
+Card Name: Samwise the Stouthearted (#28) | Spoiled date: 2023-03-14
+Rarity: uncommon | Mana Value: 2 | Power: 2
+Text: Flash / When Samwise enters, choose up to one target permanent card in your graveyard that was put there from the battlefield this turn. Return it to your hand. Then the Ring tempts you.
+
+Card Name: You Cannot Pass! (#38) | Spoiled date: 2023-03-14
+Rarity: uncommon | Mana Value: 1 | Power: 
+Text: Destroy target creature that blocked or was blocked by a legendary creature this turn.
+
+Card Name: Gollum, Patient Plotter (#84) | Spoiled date: 2023-03-14
+Rarity: uncommon | Mana Value: 2 | Power: 3
+Text: When Gollum leaves the battlefield, the Ring tempts you. / {B}, Sacrifice a creature: Return this card from your graveyard to your hand. Activate only as a sorcery.
+
+Card Name: Tom Bombadil (#234) | Spoiled date: 2023-03-14
+Rarity: mythic | Mana Value: 5 | Power: 4
+Text: As long as there are four or more lore counters among Sagas you control, Tom Bombadil has hexproof and indestructible. / Whenever the final chapter ability of a Saga you control resolves, reveal cards from the top of your library until you reveal a Saga card. Put that card onto the battlefield and the rest on the bottom of your library in a random order. This ability triggers only once each turn.
+
+Card Name: Mount Doom (#258) | Spoiled date: 2023-03-14
+Rarity: mythic | Mana Value: 0 | Power: 
+Text: {T}, Pay 1 life: Add {B} or {R}. / {1}{B}{R}, {T}: Mount Doom deals 1 damage to each opponent. / {5}{B}{R}, {T}, Sacrifice Mount Doom and a legendary artifact: Choose up to two creatures, then destroy the rest. Activate only as a sorcery.
+
+Card Name: Aragorn and Arwen, Wed (#287) | Spoiled date: 2023-03-14
+Rarity: mythic | Mana Value: 6 | Power: 3
+Text: Vigilance / Whenever Aragorn and Arwen enters or attacks, put a +1/+1 counter on each other creature you control. You gain 1 life for each other creature you control.
+
+Card Name: Sauron, the Lidless Eye (#288) | Spoiled date: 2023-03-14
+Rarity: mythic | Mana Value: 5 | Power: 4
+Text: When Sauron enters, gain control of target creature an opponent controls until end of turn. Untap it. It gains haste until end of turn. / {1}{B}{R}: Creatures you control get +2/+0 until end of turn. Each opponent loses 2 life.
+
+Card Name: Gandalf, Friend of the Shire (#50) | Spoiled date: 2023-05-29
+Rarity: uncommon | Mana Value: 4 | Power: 2
+Text: Flash / You may cast sorcery spells as though they had flash. / Whenever the Ring tempts you, if you chose a creature other than Gandalf as your Ring-bearer, draw a card.
+
+Card Name: Lobelia Sackville-Baggins (#93) | Spoiled date: 2023-05-29
+Rarity: rare | Mana Value: 3 | Power: 2
+Text: Flash / Menace / When Lobelia enters, exile target creature card from an opponent's graveyard that was put there from the battlefield this turn, then create X Treasure tokens, where X is the exiled card's power.
+
+Card Name: Delighted Halfling (#158) | Spoiled date: 2023-05-29
+Rarity: rare | Mana Value: 1 | Power: 1
+Text: {T}: Add {C}. / {T}: Add one mana of any color. Spend this mana only to cast a legendary spell, and that spell can't be countered.
+
+Card Name: Bilbo, Retired Burglar (#196) | Spoiled date: 2023-05-29
+Rarity: uncommon | Mana Value: 3 | Power: 1
+Text: When Bilbo enters or leaves the battlefield, the Ring tempts you. / Whenever Bilbo deals combat damage to a player, create a Treasure token.
+
+Card Name: Frodo Baggins (#205) | Spoiled date: 2023-05-29
+Rarity: uncommon | Mana Value: 2 | Power: 1
+Text: Whenever Frodo Baggins or another legendary creature you control enters, the Ring tempts you. / As long as Frodo Baggins is your Ring-bearer, it must be blocked if able.
+
+Card Name: Wizard's Rockets (#252) | Spoiled date: 2023-05-29
+Rarity: common | Mana Value: 1 | Power: 
+Text: This artifact enters tapped. / {X}, {T}, Sacrifice this artifact: Add X mana in any combination of colors. / When this artifact is put into a graveyard from the battlefield, draw a card.
+
+Card Name: Doors of Durin (#199) | Spoiled date: 2023-05-30
+Rarity: rare | Mana Value: 5 | Power: 
+Text: Whenever you attack, scry 2, then you may reveal the top card of your library. If a creature card is revealed this way, put it onto the battlefield tapped and attacking. Until your next turn, it gains trample if you control a Dwarf and hexproof if you control an Elf.
+
+Card Name: Forge Anew (#17) | Spoiled date: 2023-05-31
+Rarity: rare | Mana Value: 3 | Power: 
+Text: When this enchantment enters, return target Equipment card from your graveyard to the battlefield. / During your turn, you may activate equip abilities any time you could cast an instant. / You may pay {0} rather than pay the equip cost of the first equip ability you activate during each of your turns.
+
+Card Name: Ioreth of the Healing House (#56) | Spoiled date: 2023-05-31
+Rarity: uncommon | Mana Value: 3 | Power: 1
+Text: {T}: Untap another target permanent. / {T}: Untap two other target legendary creatures.
+
+Card Name: Saruman the White (#67) | Spoiled date: 2023-05-31
+Rarity: uncommon | Mana Value: 5 | Power: 4
+Text: Ward {2} / Whenever you cast your second spell each turn, amass Orcs 2. (Put two +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)
+
+Card Name: Gollum's Bite (#85) | Spoiled date: 2023-05-31
+Rarity: uncommon | Mana Value: 1 | Power: 
+Text: Target creature gets -2/-2 until end of turn. / {3}{B}, Exile this card from your graveyard: The Ring tempts you. Activate only as a sorcery.
+
+Card Name: Grond, the Gatebreaker (#89) | Spoiled date: 2023-05-31
+Rarity: uncommon | Mana Value: 4 | Power: 5
+Text: Trample / As long as it's your turn and you control an Army, Grond is an artifact creature. / Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)
+
+Card Name: March from the Black Gate (#94) | Spoiled date: 2023-05-31
+Rarity: uncommon | Mana Value: 2 | Power: 
+Text: When this enchantment enters and whenever an Army you control attacks, amass Orcs 1. (Put a +1/+1 counter on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)
+
+Card Name: The Torment of Gollum (#110) | Spoiled date: 2023-05-31
+Rarity: common | Mana Value: 4 | Power: 
+Text: Target opponent reveals their hand. You choose a nonland card from it. That player discards that card. / Amass Orcs 2. (Put two +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)
+
+Card Name: Book of Mazarbul (#116) | Spoiled date: 2023-05-31
+Rarity: uncommon | Mana Value: 3 | Power: 
+Text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.) / I — Amass Orcs 1. (Put a +1/+1 counter on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.) / II — Amass Orcs 2. / III — Creatures you control get +1/+0 and gain menace until end of turn.
+
+Card Name: Fall of Gil-galad (#165) | Spoiled date: 2023-05-31
+Rarity: rare | Mana Value: 2 | Power: 
+Text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.) / I — Scry 2. / II — Put two +1/+1 counters on target creature you control. / III — Until end of turn, target creature you control gains "When this creature dies, draw two cards." Then that creature fights up to one other target creature.
+
+Card Name: Friendly Rivalry (#204) | Spoiled date: 2023-05-31
+Rarity: uncommon | Mana Value: 2 | Power: 
+Text: Target creature you control and up to one other target legendary creature you control each deal damage equal to their power to target creature you don't control.
+
+Card Name: Ringsight (#220) | Spoiled date: 2023-05-31
+Rarity: uncommon | Mana Value: 3 | Power: 
+Text: The Ring tempts you. Search your library for a card that shares a color with a legendary creature you control, reveal it, put it into your hand, then shuffle.
+
+Card Name: Mines of Moria (#257) | Spoiled date: 2023-05-31
+Rarity: rare | Mana Value: 0 | Power: 
+Text: Mines of Moria enters tapped unless you control a legendary creature. / {T}: Add {R}. / {3}{R}, {T}, Exile three cards from your graveyard: Create two Treasure tokens.
+
+Card Name: Tale of Tinúviel (#34) | Spoiled date: 2023-06-01
+Rarity: uncommon | Mana Value: 5 | Power: 
+Text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.) / I — Target creature you control gains indestructible for as long as you control this Saga. / II — Return target creature card from your graveyard to the battlefield. / III — Up to two target creatures you control each gain lifelink until end of turn.
+
+Card Name: War of the Last Alliance (#36) | Spoiled date: 2023-06-01
+Rarity: rare | Mana Value: 4 | Power: 
+Text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.) / I, II — Search your library for a legendary creature card, reveal it, put it into your hand, then shuffle. / III — Creatures you control gain double strike until end of turn. The Ring tempts you.
+
+Card Name: Bill Ferny, Bree Swindler (#42) | Spoiled date: 2023-06-01
+Rarity: uncommon | Mana Value: 2 | Power: 2
+Text: Whenever Bill Ferny becomes blocked, choose one — / • Create a Treasure token. (It's an artifact with "{T}, Sacrifice this token: Add one mana of any color.") / • Target opponent gains control of target Horse you control. If they do, remove Bill Ferny from combat and create three Treasure tokens.
+
+Card Name: Bitter Downfall (#77) | Spoiled date: 2023-06-01
+Rarity: uncommon | Mana Value: 4 | Power: 
+Text: This spell costs {3} less to cast if it targets a creature that was dealt damage this turn. / Destroy target creature. Its controller loses 2 life.
+
+Card Name: Morgul-Knife Wound (#98) | Spoiled date: 2023-06-01
+Rarity: common | Mana Value: 2 | Power: 
+Text: Enchant creature / Enchanted creature gets -3/-0 and has "At the beginning of your upkeep, exile this creature unless you pay 2 life."
+
+Card Name: Display of Power (#119) | Spoiled date: 2023-06-01
+Rarity: rare | Mana Value: 3 | Power: 
+Text: This spell can't be copied. / Copy any number of target instant and/or sorcery spells. You may choose new targets for the copies.
+
+Card Name: Moria Marauder (#138) | Spoiled date: 2023-06-01
+Rarity: rare | Mana Value: 2 | Power: 1
+Text: Double strike / Whenever a Goblin or Orc you control deals combat damage to a player, exile the top card of your library. You may play that card this turn.
+
+Card Name: There and Back Again (#151) | Spoiled date: 2023-06-01
+Rarity: rare | Mana Value: 5 | Power: 
+Text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.) / I — Up to one target creature can't block for as long as you control this Saga. The Ring tempts you. / II — Search your library for a Mountain card, put it onto the battlefield, then shuffle. / III — Create Smaug, a legendary 6/6 red Dragon creature token with flying, haste, and "When Smaug dies, create fourteen Treasure tokens."
+
+Card Name: Shadowfax, Lord of Horses (#227) | Spoiled date: 2023-06-01
+Rarity: uncommon | Mana Value: 5 | Power: 4
+Text: Horses you control have haste. (They can attack and {T} as soon as they come under your control.) / Whenever Shadowfax attacks, you may put a creature card with lesser power from your hand onto the battlefield tapped and attacking.
+
+Card Name: Strider, Ranger of the North (#232) | Spoiled date: 2023-06-01
+Rarity: uncommon | Mana Value: 4 | Power: 4
+Text: Landfall — Whenever a land you control enters, target creature gets +1/+1 until end of turn. Then if that creature has power 4 or greater, it gains first strike until end of turn.
+
+Card Name: Horn of Gondor (#240) | Spoiled date: 2023-06-01
+Rarity: rare | Mana Value: 3 | Power: 
+Text: When Horn of Gondor enters, create a 1/1 white Human Soldier creature token. / {3}, {T}: Create X 1/1 white Human Soldier creature tokens, where X is the number of Humans you control.
+
+Card Name: Gandalf, White Rider (#290) | Spoiled date: 2023-06-01
+Rarity: rare | Mana Value: 4 | Power: 3
+Text: Vigilance / Whenever you cast a spell, creatures you control get +1/+0 until end of turn. Scry 1. / When Gandalf dies, you may put it into its owner's library fifth from the top.
+
+Card Name: Meneldor, Swift Savior (#62) | Spoiled date: 2023-06-02
+Rarity: uncommon | Mana Value: 4 | Power: 3
+Text: Flying / Whenever Meneldor deals combat damage to a player, exile up to one target creature you own, then return it to the battlefield under your control.
+
+Card Name: Press the Enemy (#65) | Spoiled date: 2023-06-02
+Rarity: rare | Mana Value: 4 | Power: 
+Text: Return target spell or nonland permanent an opponent controls to its owner's hand. You may cast an instant or sorcery spell with equal or lesser mana value from your hand without paying its mana cost.
+
+Card Name: Stern Scolding (#71) | Spoiled date: 2023-06-02
+Rarity: uncommon | Mana Value: 1 | Power: 
+Text: Counter target creature spell with power or toughness 2 or less.
+
+Card Name: Troll of Khazad-dûm (#111) | Spoiled date: 2023-06-02
+Rarity: common | Mana Value: 6 | Power: 6
+Text: This creature can't be blocked except by three or more creatures. / Swampcycling {1} ({1}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)
+
+Card Name: Gimli, Counter of Kills (#129) | Spoiled date: 2023-06-02
+Rarity: uncommon | Mana Value: 4 | Power: 4
+Text: Trample / Whenever a creature an opponent controls dies, Gimli deals 1 damage to that creature's controller.
+
+Card Name: Gimli's Fury (#131) | Spoiled date: 2023-06-02
+Rarity: common | Mana Value: 2 | Power: 
+Text: Target creature gets +3/+2 until end of turn. If it's legendary, it also gains trample until end of turn.
+
+Card Name: Glóin, Dwarf Emissary (#132) | Spoiled date: 2023-06-02
+Rarity: rare | Mana Value: 3 | Power: 3
+Text: Whenever you cast a historic spell, create a Treasure token. This ability triggers only once each turn. (Artifacts, legendaries, and Sagas are historic.) / {T}, Sacrifice a Treasure: Goad target creature. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)
+
+Card Name: The Ring Goes South (#186) | Spoiled date: 2023-06-02
+Rarity: rare | Mana Value: 4 | Power: 
+Text: The Ring tempts you. Then reveal cards from the top of your library until you reveal X land cards, where X is the number of legendary creatures you control. Put those land cards onto the battlefield tapped and the rest on the bottom of your library in a random order.
+
+Card Name: Faramir, Prince of Ithilien (#202) | Spoiled date: 2023-06-02
+Rarity: rare | Mana Value: 4 | Power: 3
+Text: At the beginning of your end step, choose an opponent. At the beginning of that player's next end step, you draw a card if they didn't attack you that turn. Otherwise, create three 1/1 white Human Soldier creature tokens.
+
+Card Name: Gwaihir the Windlord (#210) | Spoiled date: 2023-06-02
+Rarity: uncommon | Mana Value: 6 | Power: 4
+Text: This spell costs {2} less to cast as long as you've drawn two or more cards this turn. / Flying, vigilance / Other Birds you control have vigilance.
+
+Card Name: Legolas, Counter of Kills (#212) | Spoiled date: 2023-06-02
+Rarity: uncommon | Mana Value: 4 | Power: 2
+Text: Reach / Whenever you scry, if Legolas is tapped, you may untap it. Do this only once each turn. / Whenever a creature an opponent controls dies, put a +1/+1 counter on Legolas.
+
+Card Name: Lotho, Corrupt Shirriff (#213) | Spoiled date: 2023-06-02
+Rarity: rare | Mana Value: 2 | Power: 2
+Text: Whenever a player casts their second spell each turn, you lose 1 life and create a Treasure token. (It's an artifact with "{T}, Sacrifice this token: Add one mana of any color.")
+
+Card Name: Rise of the Witch-king (#221) | Spoiled date: 2023-06-02
+Rarity: uncommon | Mana Value: 4 | Power: 
+Text: Each player sacrifices a creature of their choice. If you sacrificed a creature this way, you may return another permanent card from your graveyard to the battlefield.
+
+Card Name: Barrow-Blade (#237) | Spoiled date: 2023-06-02
+Rarity: uncommon | Mana Value: 1 | Power: 
+Text: Equipped creature gets +1/+1. / Whenever equipped creature blocks or becomes blocked by a creature, that creature loses all abilities until end of turn. / Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
+
+Card Name: Théoden, King of Rohan (#233) | Spoiled date: 2023-06-03
+Rarity: uncommon | Mana Value: 3 | Power: 2
+Text: Whenever Théoden or another Human you control enters, target creature gains double strike until end of turn.
+
+Card Name: Palantír of Orthanc (#247) | Spoiled date: 2023-06-03
+Rarity: mythic | Mana Value: 3 | Power: 
+Text: At the beginning of your end step, put an influence counter on Palantír of Orthanc and scry 2. Then target opponent may have you draw a card. If that player doesn't, you mill X cards, where X is the number of influence counters on Palantír of Orthanc, and that player loses life equal to the total mana value of those cards.
+
+Card Name: Slip On the Ring (#31) | Spoiled date: 2023-06-04
+Rarity: common | Mana Value: 2 | Power: 
+Text: Exile target creature you own, then return it to the battlefield under your control. The Ring tempts you.
+
+Card Name: Gríma Wormtongue (#88) | Spoiled date: 2023-06-04
+Rarity: uncommon | Mana Value: 3 | Power: 1
+Text: Your opponents can't gain life. / {T}, Sacrifice another creature: Target player loses 1 life. If the sacrificed creature was legendary, amass Orcs 2.
+
+Card Name: Arwen, Mortal Queen (#193) | Spoiled date: 2023-06-04
+Rarity: mythic | Mana Value: 3 | Power: 2
+Text: Arwen enters with an indestructible counter on her. / {1}, Remove an indestructible counter from Arwen: Another target creature gains indestructible until end of turn. Put a +1/+1 counter and a lifelink counter on that creature and a +1/+1 counter and a lifelink counter on Arwen.
+
+Card Name: Great Hall of the Citadel (#254) | Spoiled date: 2023-06-04
+Rarity: common | Mana Value: 0 | Power: 
+Text: {T}: Add {C}. / {1}, {T}: Add two mana in any combination of colors. Spend this mana only to cast legendary spells.
+
+Card Name: Gollum, Scheming Guide (#292) | Spoiled date: 2023-06-04
+Rarity: rare | Mana Value: 2 | Power: 2
+Text: Whenever Gollum attacks, look at the top two cards of your library, put them back in any order, then choose land or nonland. An opponent guesses whether the top card of your library is the chosen kind. Reveal that card. If they guessed right, remove Gollum from combat. Otherwise, you draw a card and Gollum can't be blocked this turn.
+
+Card Name: Éowyn, Lady of Rohan (#10) | Spoiled date: 2023-06-05
+Rarity: uncommon | Mana Value: 3 | Power: 2
+Text: At the beginning of combat on your turn, target creature gains your choice of first strike or vigilance until end of turn. If that creature is equipped, it gains first strike and vigilance until end of turn instead. / Equip abilities you activate cost {1} less to activate.
+
+Card Name: Flowering of the White Tree (#15) | Spoiled date: 2023-06-05
+Rarity: rare | Mana Value: 2 | Power: 
+Text: Legendary creatures you control get +2/+1 and have ward {1}. / Nonlegendary creatures you control get +1/+1.
+
+Card Name: Lost to Legend (#22) | Spoiled date: 2023-06-05
+Rarity: uncommon | Mana Value: 2 | Power: 
+Text: Put target nonland historic permanent into its owner's library fourth from the top. (Artifacts, legendaries, and Sagas are historic.)
+
+Card Name: Elrond, Lord of Rivendell (#49) | Spoiled date: 2023-06-05
+Rarity: uncommon | Mana Value: 3 | Power: 3
+Text: Whenever Elrond or another creature you control enters, scry 1. If this is the second time this ability has resolved this turn, the Ring tempts you.
+
+Card Name: Isildur's Fateful Strike (#91) | Spoiled date: 2023-06-05
+Rarity: rare | Mana Value: 4 | Power: 
+Text: (You may cast a legendary instant only if you control a legendary creature or planeswalker.) / Destroy target creature. If its controller has more than four cards in hand, they exile cards from their hand equal to the difference.
+
+Card Name: Éomer of the Riddermark (#121) | Spoiled date: 2023-06-05
+Rarity: uncommon | Mana Value: 5 | Power: 5
+Text: Haste / Whenever Éomer attacks, if you control a creature with the greatest power among creatures on the battlefield, create a 1/1 white Human Soldier creature token.
+
+Card Name: Fear, Fire, Foes! (#125) | Spoiled date: 2023-06-05
+Rarity: uncommon | Mana Value: 1 | Power: 
+Text: Damage can't be prevented this turn. Fear, Fire, Foes! deals X damage to target creature and 1 damage to each other creature with the same controller.
+
+Card Name: Entish Restoration (#163) | Spoiled date: 2023-06-05
+Rarity: uncommon | Mana Value: 3 | Power: 
+Text: Sacrifice a land. Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle. If you control a creature with power 4 or greater, instead search your library for up to three basic land cards, put them onto the battlefield tapped, then shuffle.
+
+Card Name: Radagast the Brown (#184) | Spoiled date: 2023-06-05
+Rarity: mythic | Mana Value: 4 | Power: 2
+Text: Whenever Radagast or another nontoken creature you control enters, look at the top X cards of your library, where X is that creature's mana value. You may reveal a creature card that doesn't share a creature type with a creature you control from among those cards and put it into your hand. Put the rest on the bottom of your library in a random order.
+
+Card Name: King of the Oathbreakers (#211) | Spoiled date: 2023-06-05
+Rarity: rare | Mana Value: 4 | Power: 3
+Text: Flying / Whenever King of the Oathbreakers or another Spirit you control becomes the target of a spell, it phases out. (Treat it and anything attached to it as though they don't exist until your next turn.) / Whenever King of the Oathbreakers or another Spirit you control phases in, create a tapped 1/1 white Spirit creature token with flying.
+
+Card Name: Shelob, Child of Ungoliant (#230) | Spoiled date: 2023-06-05
+Rarity: rare | Mana Value: 6 | Power: 8
+Text: Deathtouch, ward {2} / Other Spiders you control have deathtouch and ward {2}. / Whenever another creature dealt damage this turn by a Spider you controlled dies, create a token that's a copy of that creature, except it's a Food artifact with "{2}, {T}, Sacrifice this token: You gain 3 life," and it loses all other card types.
+
+Card Name: Ent-Draught Basin (#238) | Spoiled date: 2023-06-05
+Rarity: uncommon | Mana Value: 2 | Power: 
+Text: {X}, {T}: Put a +1/+1 counter on target creature with power X. Activate only as a sorcery.
+
+Card Name: Mirror of Galadriel (#244) | Spoiled date: 2023-06-05
+Rarity: uncommon | Mana Value: 2 | Power: 
+Text: {5}, {T}: Scry 1, then draw a card. This ability costs {1} less to activate for each legendary creature you control.
+
+Card Name: Phial of Galadriel (#248) | Spoiled date: 2023-06-05
+Rarity: rare | Mana Value: 3 | Power: 
+Text: If you would draw a card while you have no cards in hand, draw two cards instead. / If you would gain life while you have 5 or less life, you gain twice that much life instead. / {T}: Add one mana of any color.
+
+Card Name: The Battle of Bywater (#2) | Spoiled date: 2023-06-06
+Rarity: rare | Mana Value: 3 | Power: 
+Text: Destroy all creatures with power 3 or greater. Then create a Food token for each creature you control. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.")
+
+Card Name: Shire Shirriff (#30) | Spoiled date: 2023-06-06
+Rarity: uncommon | Mana Value: 2 | Power: 2
+Text: Vigilance / When this creature enters, you may sacrifice a token. When you do, exile target creature an opponent controls until this creature leaves the battlefield.
+
+Card Name: Took Reaper (#35) | Spoiled date: 2023-06-06
+Rarity: common | Mana Value: 2 | Power: 2
+Text: When this creature dies, the Ring tempts you.
+
+Card Name: Goldberry, River-Daughter (#52) | Spoiled date: 2023-06-06
+Rarity: rare | Mana Value: 2 | Power: 1
+Text: {T}: Move a counter of each kind not on Goldberry from another target permanent you control onto Goldberry. / {U}, {T}: Move one or more counters from Goldberry onto another target permanent you control. If you do, draw a card.
+
+Card Name: Horses of the Bruinen (#55) | Spoiled date: 2023-06-06
+Rarity: uncommon | Mana Value: 5 | Power: 
+Text: Return up to two target creatures to their owners' hands. Scry 1. The Ring tempts you.
+
+Card Name: Scroll of Isildur (#69) | Spoiled date: 2023-06-06
+Rarity: rare | Mana Value: 3 | Power: 
+Text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.) / I — Gain control of up to one target artifact for as long as you control this Saga. The Ring tempts you. / II — Tap up to two target creatures. Put a stun counter on each of them. / III — Draw a card for each tapped creature target opponent controls.
+
+Card Name: Surrounded by Orcs (#73) | Spoiled date: 2023-06-06
+Rarity: common | Mana Value: 4 | Power: 
+Text: Amass Orcs 3, then target player mills X cards, where X is the amassed Army's power. (To amass Orcs 3, put three +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)
+
+Card Name: The Watcher in the Water (#75) | Spoiled date: 2023-06-06
+Rarity: mythic | Mana Value: 5 | Power: 9
+Text: The Watcher in the Water enters tapped with nine stun counters on it. (If a permanent with a stun counter would become untapped, remove one from it instead.) / Whenever you draw a card during an opponent's turn, create a 1/1 blue Tentacle creature token. / Whenever a Tentacle you control dies, untap up to one target Kraken and put a stun counter on up to one target nonland permanent.
+
+Card Name: Uruk-hai Berserker (#112) | Spoiled date: 2023-06-06
+Rarity: common | Mana Value: 3 | Power: 3
+Text: When this creature enters, the Ring tempts you.
+
+Card Name: Battle-Scarred Goblin (#115) | Spoiled date: 2023-06-06
+Rarity: common | Mana Value: 2 | Power: 2
+Text: Whenever this creature becomes blocked, it deals 1 damage to each creature blocking it.
+
+Card Name: Erkenbrand, Lord of Westfold (#123) | Spoiled date: 2023-06-06
+Rarity: uncommon | Mana Value: 4 | Power: 3
+Text: Whenever Erkenbrand or another Human you control enters, creatures you control get +1/+0 until end of turn.
+
+Card Name: Spiteful Banditry (#149) | Spoiled date: 2023-06-06
+Rarity: mythic | Mana Value: 2 | Power: 
+Text: When this enchantment enters, it deals X damage to each creature. / Whenever one or more creatures your opponents control die, you create a Treasure token. This ability triggers only once each turn.
+
+Card Name: Warbeast of Gorgoroth (#152) | Spoiled date: 2023-06-06
+Rarity: common | Mana Value: 5 | Power: 5
+Text: Whenever this creature or another creature you control with power 4 or greater dies, amass Orcs 2. (Put two +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)
+
+Card Name: Celeborn the Wise (#156) | Spoiled date: 2023-06-06
+Rarity: uncommon | Mana Value: 4 | Power: 3
+Text: Whenever you attack with one or more Elves, scry 1. / Whenever you scry, Celeborn gets +1/+1 until end of turn for each card looked at while scrying this way.
+
+Card Name: Dúnedain Rangers (#159) | Spoiled date: 2023-06-06
+Rarity: uncommon | Mana Value: 4 | Power: 4
+Text: Landfall — Whenever a land you control enters, if you don't control a Ring-bearer, the Ring tempts you.
+
+Card Name: Elven Chorus (#160) | Spoiled date: 2023-06-06
+Rarity: rare | Mana Value: 4 | Power: 
+Text: You may look at the top card of your library any time. / You may cast creature spells from the top of your library. / Creatures you control have "{T}: Add one mana of any color."
+
+Card Name: Glorfindel, Dauntless Rescuer (#171) | Spoiled date: 2023-06-06
+Rarity: uncommon | Mana Value: 3 | Power: 3
+Text: Whenever you scry, choose one and Glorfindel gets +1/+1 until end of turn. / • Glorfindel must be blocked this turn if able. / • Glorfindel can't be blocked by more than one creature each combat this turn.
+
+Card Name: Revive the Shire (#185) | Spoiled date: 2023-06-06
+Rarity: common | Mana Value: 2 | Power: 
+Text: Return target permanent card from your graveyard to your hand. Create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.")
+
+Card Name: Arwen Undómiel (#194) | Spoiled date: 2023-06-06
+Rarity: uncommon | Mana Value: 2 | Power: 2
+Text: Whenever you scry, put a +1/+1 counter on target creature. / {4}{G}{U}: Scry 2.
+
+Card Name: Sharkey, Tyrant of the Shire (#229) | Spoiled date: 2023-06-06
+Rarity: rare | Mana Value: 4 | Power: 2
+Text: Activated abilities of lands your opponents control can't be activated unless they're mana abilities. / Sharkey has all activated abilities of lands your opponents control except mana abilities. / Mana of any type can be spent to activate Sharkey's abilities.
+
+Card Name: Sméagol, Helpful Guide (#231) | Spoiled date: 2023-06-06
+Rarity: rare | Mana Value: 3 | Power: 4
+Text: At the beginning of your end step, if a creature died under your control this turn, the Ring tempts you. / Whenever the Ring tempts you, target opponent reveals cards from the top of their library until they reveal a land card. Put that card onto the battlefield tapped under your control and the rest into their graveyard.
+
+Card Name: Andúril, Flame of the West (#236) | Spoiled date: 2023-06-06
+Rarity: mythic | Mana Value: 3 | Power: 
+Text: Equipped creature gets +3/+1. / Whenever equipped creature attacks, create two tapped 1/1 white Spirit creature tokens with flying. If that creature is legendary, instead create two of those tokens that are tapped and attacking. / Equip {2}
+
+Card Name: Horn of the Mark (#241) | Spoiled date: 2023-06-06
+Rarity: rare | Mana Value: 2 | Power: 
+Text: Whenever two or more creatures you control attack a player, look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+
+Card Name: Saradoc, Master of Buckland (#282) | Spoiled date: 2023-06-06
+Rarity: rare | Mana Value: 4 | Power: 2
+Text: Whenever Saradoc or another nontoken creature you control with power 2 or less enters, create a 1/1 white Halfling creature token. / Tap two other untapped Halflings you control: Saradoc gets +2/+0 and gains lifelink until end of turn.
+
+Card Name: Elvish Mariner (#283) | Spoiled date: 2023-06-06
+Rarity: rare | Mana Value: 3 | Power: 3
+Text: Whenever this creature attacks, scry 1. / Whenever you scry, tap up to X target nonland permanents, where X is the number of cards looked at while scrying this way.
+
+Card Name: Ringwraiths (#284) | Spoiled date: 2023-06-06
+Rarity: rare | Mana Value: 6 | Power: 5
+Text: When this creature enters, target creature an opponent controls gets -3/-3 until end of turn. If that creature is legendary, its controller loses 3 life. / When the Ring tempts you, return this card from your graveyard to your hand.
+
+Card Name: Assault on Osgiliath (#285) | Spoiled date: 2023-06-06
+Rarity: rare | Mana Value: 3 | Power: 
+Text: Amass Orcs X, then Goblins and Orcs you control gain double strike and haste until end of turn. (To amass Orcs X, put X +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)
+
+Card Name: Elanor Gardner (#286) | Spoiled date: 2023-06-06
+Rarity: rare | Mana Value: 4 | Power: 2
+Text: When Elanor enters, create a Food token. / At the beginning of your end step, if you sacrificed a Food this turn, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+
+Card Name: Eagles of the North (#7) | Spoiled date: 2023-06-07
+Rarity: common | Mana Value: 6 | Power: 3
+Text: Flying / When this creature enters, creatures you control get +1/+0 and gain first strike until end of turn. / Plainscycling {1} ({1}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)
+
+Card Name: Birthday Escape (#43) | Spoiled date: 2023-06-07
+Rarity: common | Mana Value: 1 | Power: 
+Text: Draw a card. The Ring tempts you.
+
+Card Name: Lost Isle Calling (#61) | Spoiled date: 2023-06-07
+Rarity: rare | Mana Value: 2 | Power: 
+Text: Whenever you scry, put a verse counter on this enchantment. / {4}{U}{U}, Exile this enchantment: Draw a card for each verse counter on this enchantment. If it had seven or more verse counters on it, take an extra turn after this one. Activate only as a sorcery.
+
+Card Name: Rangers of Ithilien (#66) | Spoiled date: 2023-06-07
+Rarity: rare | Mana Value: 4 | Power: 3
+Text: Vigilance / When this creature enters, gain control of up to one target creature with lesser power for as long as you control this creature. Then the Ring tempts you.
+
+Card Name: Claim the Precious (#81) | Spoiled date: 2023-06-07
+Rarity: common | Mana Value: 3 | Power: 
+Text: Destroy target creature. The Ring tempts you.
+
+Card Name: Gorbag of Minas Morgul (#86) | Spoiled date: 2023-06-07
+Rarity: uncommon | Mana Value: 2 | Power: 2
+Text: Whenever a Goblin or Orc you control deals combat damage to a player, you may sacrifice it. When you do, choose one — / • Draw a card. / • Create a Treasure token. (It's an artifact with "{T}, Sacrifice this token: Add one mana of any color.")
+
+Card Name: Breaking of the Fellowship (#117) | Spoiled date: 2023-06-07
+Rarity: common | Mana Value: 2 | Power: 
+Text: Target creature an opponent controls deals damage equal to its power to another target creature that player controls. The Ring tempts you.
+
+Card Name: Fall of Cair Andros (#124) | Spoiled date: 2023-06-07
+Rarity: rare | Mana Value: 3 | Power: 
+Text: Whenever a creature an opponent controls is dealt excess noncombat damage, amass Orcs X, where X is that excess damage. (Put X +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.) / {7}{R}: This enchantment deals 7 damage to target creature.
+
+Card Name: Rally at the Hornburg (#142) | Spoiled date: 2023-06-07
+Rarity: common | Mana Value: 2 | Power: 
+Text: Create two 1/1 white Human Soldier creature tokens. Humans you control gain haste until end of turn.
+
+Card Name: Shortcut to Mushrooms (#187) | Spoiled date: 2023-06-07
+Rarity: uncommon | Mana Value: 2 | Power: 
+Text: When this enchantment enters, the Ring tempts you. / At the beginning of your end step, if a permanent you controlled left the battlefield this turn, put a +1/+1 counter on target creature you control.
+
+Card Name: Denethor, Ruling Steward (#198) | Spoiled date: 2023-06-07
+Rarity: uncommon | Mana Value: 3 | Power: 2
+Text: At the beginning of your end step, if a creature died under your control this turn, create a 1/1 white Human Soldier creature token. / {2}, Sacrifice another creature: Each opponent loses 1 life and you gain 1 life.
+
+Card Name: Elrond, Master of Healing (#200) | Spoiled date: 2023-06-07
+Rarity: rare | Mana Value: 4 | Power: 4
+Text: Whenever you scry, put a +1/+1 counter on each of up to X target creatures, where X is the number of cards looked at while scrying this way. / Whenever a creature you control with a +1/+1 counter on it becomes the target of a spell or ability an opponent controls, you may draw a card.
+
+Card Name: Galadriel of Lothlórien (#206) | Spoiled date: 2023-06-07
+Rarity: rare | Mana Value: 3 | Power: 3
+Text: Whenever the Ring tempts you, if you chose a creature other than Galadriel as your Ring-bearer, scry 3. / Whenever you scry, you may reveal the top card of your library. If a land card is revealed this way, put it onto the battlefield tapped.
+
+Card Name: Gandalf's Sanction (#208) | Spoiled date: 2023-06-07
+Rarity: uncommon | Mana Value: 3 | Power: 
+Text: Gandalf's Sanction deals X damage to target creature, where X is the number of instant and sorcery cards in your graveyard. Excess damage is dealt to that creature's controller instead.
+
+Card Name: Old Man Willow (#217) | Spoiled date: 2023-06-07
+Rarity: uncommon | Mana Value: 4 | Power: 
+Text: Old Man Willow's power and toughness are each equal to the number of lands you control. / Whenever Old Man Willow attacks, you may sacrifice another creature or a token. When you do, target creature an opponent controls gets -2/-2 until end of turn.
+
+Card Name: Shadow Summoning (#226) | Spoiled date: 2023-06-07
+Rarity: uncommon | Mana Value: 2 | Power: 
+Text: Create two tapped 1/1 white Spirit creature tokens with flying.
+
+Card Name: Glamdring (#239) | Spoiled date: 2023-06-07
+Rarity: mythic | Mana Value: 2 | Power: 
+Text: Equipped creature has first strike and gets +1/+0 for each instant and sorcery card in your graveyard. / Whenever equipped creature deals combat damage to a player, you may cast an instant or sorcery spell from your hand with mana value less than or equal to that damage without paying its mana cost. / Equip {3}
+
+Card Name: Lembas (#243) | Spoiled date: 2023-06-07
+Rarity: common | Mana Value: 2 | Power: 
+Text: When this artifact enters, scry 1, then draw a card. / {2}, {T}, Sacrifice this artifact: You gain 3 life. / When this artifact is put into a graveyard from the battlefield, its owner shuffles it into their library.
+
+Card Name: Mithril Coat (#245) | Spoiled date: 2023-06-07
+Rarity: rare | Mana Value: 3 | Power: 
+Text: Flash / Indestructible / When Mithril Coat enters, attach it to target legendary creature you control. / Equipped creature has indestructible. / Equip {3}
+
+Card Name: Stone of Erech (#251) | Spoiled date: 2023-06-07
+Rarity: uncommon | Mana Value: 1 | Power: 
+Text: If a creature an opponent controls would die, exile it instead. / {2}, {T}, Sacrifice Stone of Erech: Exile target player's graveyard. Draw a card.
+
+Card Name: The Grey Havens (#255) | Spoiled date: 2023-06-07
+Rarity: uncommon | Mana Value: 0 | Power: 
+Text: When The Grey Havens enters, scry 1. / {T}: Add {C}. / {T}: Add one mana of any color among legendary creature cards in your graveyard.
+
+Card Name: Dawn of a New Age (#5) | Spoiled date: 2023-06-08
+Rarity: mythic | Mana Value: 2 | Power: 
+Text: This enchantment enters with a hope counter on it for each creature you control. / At the beginning of your end step, remove a hope counter from this enchantment. If you do, draw a card. Then if this enchantment has no hope counters on it, sacrifice it and you gain 4 life.
+
+Card Name: Hobbit's Sting (#20) | Spoiled date: 2023-06-08
+Rarity: common | Mana Value: 2 | Power: 
+Text: Hobbit's Sting deals X damage to target creature, where X is the number of creatures you control plus the number of Foods you control.
+
+Card Name: Soothing of Sméagol (#70) | Spoiled date: 2023-06-08
+Rarity: common | Mana Value: 2 | Power: 
+Text: Return target nontoken creature to its owner's hand. The Ring tempts you.
+
+Card Name: Lash of the Balrog (#92) | Spoiled date: 2023-06-08
+Rarity: common | Mana Value: 1 | Power: 
+Text: As an additional cost to cast this spell, sacrifice a creature or pay {4}. / Destroy target creature.
+
+Card Name: Orcish Medicine (#104) | Spoiled date: 2023-06-08
+Rarity: common | Mana Value: 2 | Power: 
+Text: Target creature gains your choice of lifelink or indestructible until end of turn. / Amass Orcs 1. (Put a +1/+1 counter on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)
+
+Card Name: Ranger's Firebrand (#143) | Spoiled date: 2023-06-08
+Rarity: uncommon | Mana Value: 1 | Power: 
+Text: Ranger's Firebrand deals 2 damage to any target. The Ring tempts you.
+
+Card Name: Mirkwood Spider (#178) | Spoiled date: 2023-06-08
+Rarity: common | Mana Value: 1 | Power: 1
+Text: Deathtouch / Whenever this creature attacks, target legendary creature you control gains deathtouch until end of turn.
+
+Card Name: Aragorn, Company Leader (#191) | Spoiled date: 2023-06-08
+Rarity: rare | Mana Value: 3 | Power: 3
+Text: Whenever the Ring tempts you, if you chose a creature other than Aragorn as your Ring-bearer, put your choice of a counter from among first strike, vigilance, deathtouch, and lifelink on Aragorn. / Whenever you put one or more counters on Aragorn, put one of each of those kinds of counters on up to one other target creature.
+
+Card Name: The Balrog, Durin's Bane (#195) | Spoiled date: 2023-06-08
+Rarity: rare | Mana Value: 7 | Power: 7
+Text: This spell costs {1} less to cast for each permanent sacrificed this turn. / Haste / The Balrog can't be blocked except by legendary creatures. / When The Balrog dies, destroy target artifact or creature an opponent controls.
+
+Card Name: Flame of Anor (#203) | Spoiled date: 2023-06-08
+Rarity: rare | Mana Value: 3 | Power: 
+Text: Choose one. If you control a Wizard as you cast this spell, you may choose two instead. / • Target player draws two cards. / • Destroy target artifact. / • Flame of Anor deals 5 damage to target creature.
+
+Card Name: Sting, the Glinting Dagger (#250) | Spoiled date: 2023-06-08
+Rarity: rare | Mana Value: 2 | Power: 
+Text: Equipped creature gets +1/+1 and has haste. / At the beginning of each combat, untap equipped creature. / Equipped creature has first strike as long as it's blocking or blocked by a Goblin or Orc. / Equip {2}
+
+Card Name: Eagle of Deliverance (#824) | Spoiled date: 2023-09-22
+Rarity: rare | Mana Value: 6 | Power: 5
+Text: Flying / When this creature enters, put an indestructible counter on another target creature you control. Draw a card if that creature's power is 2 or less.
+
+Card Name: Warg Rider (#826) | Spoiled date: 2023-09-22
+Rarity: rare | Mana Value: 5 | Power: 4
+Text: Menace / Other Orcs and Goblins you control have menace. / At the beginning of combat on your turn, amass Orcs 2. (Put two +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)
+
+Card Name: Mirkwood Channeler (#828) | Spoiled date: 2023-09-22
+Rarity: rare | Mana Value: 4 | Power: 3
+Text: At the beginning of combat on your turn, target Elf you control gains trample and gets +X/+X until end of turn, where X is the number of Forests you control.
+
+Card Name: Banish from Edoras (#1) | Spoiled date: unknown
+Rarity: common | Mana Value: 5 | Power: 
+Text: This spell costs {2} less to cast if it targets a tapped creature. / Exile target creature.
+
+Card Name: Bill the Pony (#3) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 4 | Power: 1
+Text: When Bill the Pony enters, create two Food tokens. (They're artifacts with "{2}, {T}, Sacrifice this token: You gain 3 life.") / Sacrifice a Food: Until end of turn, target creature you control assigns combat damage equal to its toughness rather than its power.
+
+Card Name: Boromir, Warden of the Tower (#4) | Spoiled date: unknown
+Rarity: rare | Mana Value: 3 | Power: 3
+Text: Vigilance / Whenever an opponent casts a spell, if no mana was spent to cast it, counter that spell. / Sacrifice Boromir: Creatures you control gain indestructible until end of turn. The Ring tempts you.
+
+Card Name: Dúnedain Blade (#6) | Spoiled date: unknown
+Rarity: common | Mana Value: 2 | Power: 
+Text: Equipped creature gets +2/+1. / Equip Human {1} / Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)
+
+Card Name: Eastfarthing Farmer (#8) | Spoiled date: unknown
+Rarity: common | Mana Value: 3 | Power: 2
+Text: When this creature enters, create a Food token. When you do, target creature you control gets +1/+1 until end of turn for each Food you control. (A Food token is an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.")
+
+Card Name: East-Mark Cavalier (#9) | Spoiled date: unknown
+Rarity: common | Mana Value: 2 | Power: 2
+Text: Vigilance / Whenever this creature deals damage to a Goblin or Orc, destroy that creature.
+
+Card Name: Errand-Rider of Gondor (#11) | Spoiled date: unknown
+Rarity: common | Mana Value: 3 | Power: 3
+Text: When this creature enters, draw a card. Then if you don't control a legendary creature, put a card from your hand on the bottom of your library.
+
+Card Name: Escape from Orthanc (#12) | Spoiled date: unknown
+Rarity: common | Mana Value: 1 | Power: 
+Text: Target creature gets +1/+3 and gains flying until end of turn. Untap it.
+
+Card Name: Esquire of the King (#13) | Spoiled date: unknown
+Rarity: common | Mana Value: 1 | Power: 1
+Text: {4}{W}, {T}: Creatures you control get +1/+1 until end of turn. This ability costs {2} less to activate if you control a legendary creature.
+
+Card Name: Faramir, Field Commander (#14) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 4 | Power: 3
+Text: At the beginning of your end step, if a creature died under your control this turn, draw a card. / Whenever the Ring tempts you, if you chose a creature other than Faramir as your Ring-bearer, create a 1/1 white Human Soldier creature token.
+
+Card Name: Fog on the Barrow-Downs (#16) | Spoiled date: unknown
+Rarity: common | Mana Value: 3 | Power: 
+Text: Enchant creature / Enchanted creature is a Spirit and can't attack or block. (It loses all other creature types.)
+
+Card Name: Gandalf the White (#19) | Spoiled date: unknown
+Rarity: mythic | Mana Value: 5 | Power: 4
+Text: Flash / You may cast legendary spells and artifact spells as though they had flash. / If a legendary permanent or an artifact entering or leaving the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+
+Card Name: Landroval, Horizon Witness (#21) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 5 | Power: 3
+Text: Flying / Whenever two or more creatures you control attack a player, target attacking creature without flying gains flying until end of turn.
+
+Card Name: Nimble Hobbit (#23) | Spoiled date: unknown
+Rarity: common | Mana Value: 2 | Power: 1
+Text: Whenever this creature attacks, you may sacrifice a Food or pay {2}{W}. When you do, tap target creature an opponent controls.
+
+Card Name: Now for Wrath, Now for Ruin! (#24) | Spoiled date: unknown
+Rarity: common | Mana Value: 4 | Power: 
+Text: Put a +1/+1 counter on each creature you control. They gain vigilance until end of turn. The Ring tempts you.
+
+Card Name: Protector of Gondor (#25) | Spoiled date: unknown
+Rarity: common | Mana Value: 4 | Power: 3
+Text: When this creature enters, create a 1/1 white Human Soldier creature token.
+
+Card Name: Rosie Cotton of South Lane (#27) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 3 | Power: 1
+Text: When Rosie Cotton enters, create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.") / Whenever you create a token, put a +1/+1 counter on target creature you control other than Rosie Cotton.
+
+Card Name: Second Breakfast (#29) | Spoiled date: unknown
+Rarity: common | Mana Value: 3 | Power: 
+Text: Up to two target creatures each get +2/+1 until end of turn. Create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.")
+
+Card Name: Soldier of the Grey Host (#32) | Spoiled date: unknown
+Rarity: common | Mana Value: 4 | Power: 2
+Text: Flash / Flying / When this creature enters, target creature gets +2/+0 until end of turn.
+
+Card Name: Stalwarts of Osgiliath (#33) | Spoiled date: unknown
+Rarity: common | Mana Value: 5 | Power: 4
+Text: When this creature enters, the Ring tempts you. / Whenever you draw your second card each turn, put a +1/+1 counter on this creature.
+
+Card Name: Westfold Rider (#37) | Spoiled date: unknown
+Rarity: common | Mana Value: 2 | Power: 3
+Text: Sacrifice this creature: Destroy target artifact or enchantment. Activate only as a sorcery.
+
+Card Name: Arwen's Gift (#39) | Spoiled date: unknown
+Rarity: common | Mana Value: 4 | Power: 
+Text: This spell costs {1} less to cast if you control two or more legendary creatures. / Scry 2, then draw two cards.
+
+Card Name: The Bath Song (#40) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 4 | Power: 
+Text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.) / I, II — Draw two cards, then discard a card. / III — Shuffle any number of target cards from your graveyard into your library. Add {U}{U}.
+
+Card Name: Bewitching Leechcraft (#41) | Spoiled date: unknown
+Rarity: common | Mana Value: 2 | Power: 
+Text: Enchant creature / When this Aura enters, tap enchanted creature. / Enchanted creature has "If this creature would untap during your untap step, remove a +1/+1 counter from it instead. If you do, untap it." (Otherwise, it doesn't untap.)
+
+Card Name: Borne Upon a Wind (#44) | Spoiled date: unknown
+Rarity: rare | Mana Value: 2 | Power: 
+Text: You may cast spells this turn as though they had flash. / Draw a card.
+
+Card Name: Captain of Umbar (#45) | Spoiled date: unknown
+Rarity: common | Mana Value: 3 | Power: 2
+Text: {1}, {T}: Draw a card, then discard a card.
+
+Card Name: Council's Deliberation (#46) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 2 | Power: 
+Text: Draw a card. / Whenever you scry, if you control an Island, you may exile this card from your graveyard. If you do, draw a card.
+
+Card Name: Deceive the Messenger (#47) | Spoiled date: unknown
+Rarity: common | Mana Value: 1 | Power: 
+Text: Target creature gets -3/-0 until end of turn. / Amass Orcs 1. (Put a +1/+1 counter on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)
+
+Card Name: Dreadful as the Storm (#48) | Spoiled date: unknown
+Rarity: common | Mana Value: 3 | Power: 
+Text: Target creature has base power and toughness 5/5 until end of turn. The Ring tempts you.
+
+Card Name: Glorious Gale (#51) | Spoiled date: unknown
+Rarity: common | Mana Value: 2 | Power: 
+Text: Counter target creature spell. If it was a legendary spell, the Ring tempts you.
+
+Card Name: Grey Havens Navigator (#53) | Spoiled date: unknown
+Rarity: common | Mana Value: 3 | Power: 3
+Text: Flash / When this creature enters, scry 1.
+
+Card Name: Hithlain Knots (#54) | Spoiled date: unknown
+Rarity: common | Mana Value: 2 | Power: 
+Text: Tap target creature. Scry 1. / Draw a card.
+
+Card Name: Isolation at Orthanc (#57) | Spoiled date: unknown
+Rarity: common | Mana Value: 4 | Power: 
+Text: Put target creature into its owner's library second from the top.
+
+Card Name: Ithilien Kingfisher (#58) | Spoiled date: unknown
+Rarity: common | Mana Value: 3 | Power: 2
+Text: Flying / When this creature dies, draw a card.
+
+Card Name: Knights of Dol Amroth (#59) | Spoiled date: unknown
+Rarity: common | Mana Value: 4 | Power: 3
+Text: Whenever you draw your second card each turn, put a +1/+1 counter on this creature.
+
+Card Name: Lórien Revealed (#60) | Spoiled date: unknown
+Rarity: common | Mana Value: 5 | Power: 
+Text: Draw three cards. / Islandcycling {1} ({1}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)
+
+Card Name: Nimrodel Watcher (#63) | Spoiled date: unknown
+Rarity: common | Mana Value: 2 | Power: 2
+Text: Whenever you scry, this creature gets +1/+0 until end of turn and can't be blocked this turn. This ability triggers only once each turn.
+
+Card Name: Pelargir Survivor (#64) | Spoiled date: unknown
+Rarity: common | Mana Value: 2 | Power: 1
+Text: {T}: Add one mana of any color. Spend this mana only to cast an instant or sorcery spell. / {5}{U}, {T}: Target player mills three cards. (They put the top three cards of their library into their graveyard.)
+
+Card Name: Saruman's Trickery (#68) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 3 | Power: 
+Text: Counter target spell. / Amass Orcs 1. (Put a +1/+1 counter on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)
+
+Card Name: Storm of Saruman (#72) | Spoiled date: unknown
+Rarity: mythic | Mana Value: 6 | Power: 
+Text: Ward {3} / Whenever you cast your second spell each turn, copy it, except the copy isn't legendary. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)
+
+Card Name: Treason of Isengard (#74) | Spoiled date: unknown
+Rarity: common | Mana Value: 3 | Power: 
+Text: Put up to one target instant or sorcery card from your graveyard on top of your library. / Amass Orcs 2. (To amass Orcs 2, put two +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)
+
+Card Name: Willow-Wind (#76) | Spoiled date: unknown
+Rarity: common | Mana Value: 5 | Power: 3
+Text: Flying / When this creature enters, scry 2.
+
+Card Name: The Black Breath (#78) | Spoiled date: unknown
+Rarity: common | Mana Value: 3 | Power: 
+Text: Creatures your opponents control get -1/-1 until end of turn. The Ring tempts you.
+
+Card Name: Call of the Ring (#79) | Spoiled date: unknown
+Rarity: rare | Mana Value: 2 | Power: 
+Text: At the beginning of your upkeep, the Ring tempts you. / Whenever you choose a creature as your Ring-bearer, you may pay 2 life. If you do, draw a card.
+
+Card Name: Cirith Ungol Patrol (#80) | Spoiled date: unknown
+Rarity: common | Mana Value: 5 | Power: 4
+Text: {1}, {T}, Sacrifice another creature: Draw a card, then create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.")
+
+Card Name: Dunland Crebain (#82) | Spoiled date: unknown
+Rarity: common | Mana Value: 3 | Power: 1
+Text: Flying / When this creature enters, amass Orcs 2. (Put two +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)
+
+Card Name: Easterling Vanguard (#83) | Spoiled date: unknown
+Rarity: common | Mana Value: 2 | Power: 2
+Text: When this creature dies, amass Orcs 1. (Put a +1/+1 counter on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)
+
+Card Name: Gothmog, Morgul Lieutenant (#87) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 4 | Power: 3
+Text: When Gothmog enters, amass Orcs 1. (Put a +1/+1 counter on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.) / Creature tokens you control have deathtouch.
+
+Card Name: Haunt of the Dead Marshes (#90) | Spoiled date: unknown
+Rarity: common | Mana Value: 1 | Power: 1
+Text: When this creature enters, scry 1. / {2}{B}: Return this card from your graveyard to the battlefield tapped. Activate only if you control a legendary creature.
+
+Card Name: Mirkwood Bats (#95) | Spoiled date: unknown
+Rarity: common | Mana Value: 4 | Power: 2
+Text: Flying / Whenever you create or sacrifice a token, each opponent loses 1 life.
+
+Card Name: Mordor Muster (#96) | Spoiled date: unknown
+Rarity: common | Mana Value: 2 | Power: 
+Text: You draw a card and you lose 1 life. / Amass Orcs 1. (Put a +1/+1 counter on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)
+
+Card Name: Mordor Trebuchet (#97) | Spoiled date: unknown
+Rarity: common | Mana Value: 3 | Power: 1
+Text: Defender / Whenever you attack with one or more Goblins and/or Orcs, create a 2/1 colorless Construct artifact creature token with flying named Ballistic Boulder that's tapped and attacking. Sacrifice that token at end of combat.
+
+Card Name: Nasty End (#99) | Spoiled date: unknown
+Rarity: common | Mana Value: 2 | Power: 
+Text: As an additional cost to cast this spell, sacrifice a creature. / Draw two cards. If the sacrificed creature was legendary, draw three cards instead.
+
+Card Name: Nazgûl (#100) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 3 | Power: 1
+Text: Deathtouch / When this creature enters, the Ring tempts you. / Whenever the Ring tempts you, put a +1/+1 counter on each Wraith you control. / A deck can have up to nine cards named Nazgûl.
+
+Card Name: Oath of the Grey Host (#101) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 4 | Power: 
+Text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.) / I — You and target opponent each create a Food token. / II — Each opponent loses 3 life. Create a Treasure token. / III — Create three tapped 1/1 white Spirit creature tokens with flying.
+
+Card Name: One Ring to Rule Them All (#102) | Spoiled date: unknown
+Rarity: rare | Mana Value: 4 | Power: 
+Text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.) / I — The Ring tempts you, then each player mills cards equal to your Ring-bearer's power. / II — Destroy all nonlegendary creatures. / III — Each opponent loses 1 life for each creature card in that player's graveyard.
+
+Card Name: Orcish Bowmasters (#103) | Spoiled date: unknown
+Rarity: rare | Mana Value: 2 | Power: 1
+Text: Flash / When this creature enters and whenever an opponent draws a card except the first one they draw in each of their draw steps, this creature deals 1 damage to any target. Then amass Orcs 1.
+
+Card Name: Sam's Desperate Rescue (#105) | Spoiled date: unknown
+Rarity: common | Mana Value: 1 | Power: 
+Text: Return target creature card from your graveyard to your hand. The Ring tempts you.
+
+Card Name: Sauron, the Necromancer (#106) | Spoiled date: unknown
+Rarity: rare | Mana Value: 5 | Power: 4
+Text: Menace / Whenever Sauron attacks, exile target creature card from your graveyard. Create a tapped and attacking token that's a copy of that card, except it's a 3/3 black Wraith with menace. At the beginning of the next end step, exile that token unless Sauron is your Ring-bearer.
+
+Card Name: Shadow of the Enemy (#107) | Spoiled date: unknown
+Rarity: mythic | Mana Value: 6 | Power: 
+Text: Exile all creature cards from target player's graveyard. You may cast spells from among those cards for as long as they remain exiled, and mana of any type can be spent to cast them.
+
+Card Name: Shelob's Ambush (#108) | Spoiled date: unknown
+Rarity: common | Mana Value: 1 | Power: 
+Text: Target creature gets +1/+2 and gains deathtouch until end of turn. Create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.")
+
+Card Name: Snarling Warg (#109) | Spoiled date: unknown
+Rarity: common | Mana Value: 4 | Power: 3
+Text: Menace (This creature can't be blocked except by two or more creatures.) / As long as you control a Goblin or Orc, this creature gets +1/+0.
+
+Card Name: Voracious Fell Beast (#113) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 6 | Power: 4
+Text: Flying / When this creature enters, each opponent sacrifices a creature of their choice. Create a Food token for each creature sacrificed this way. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.")
+
+Card Name: Witch-king of Angmar (#114) | Spoiled date: unknown
+Rarity: mythic | Mana Value: 5 | Power: 5
+Text: Flying / Whenever one or more creatures deal combat damage to you, each opponent sacrifices a creature of their choice that dealt combat damage to you this turn. The Ring tempts you. / Discard a card: Witch-king of Angmar gains indestructible until end of turn. Tap him.
+
+Card Name: Cast into the Fire (#118) | Spoiled date: unknown
+Rarity: common | Mana Value: 2 | Power: 
+Text: Choose one — / • Cast into the Fire deals 1 damage to each of up to two target creatures. / • Exile target artifact.
+
+Card Name: Éomer, Marshal of Rohan (#120) | Spoiled date: unknown
+Rarity: rare | Mana Value: 4 | Power: 4
+Text: Haste / Whenever one or more other attacking legendary creatures you control die, untap all creatures you control. After this phase, there is an additional combat phase. This ability triggers only once each turn.
+
+Card Name: Erebor Flamesmith (#122) | Spoiled date: unknown
+Rarity: common | Mana Value: 2 | Power: 2
+Text: Whenever you cast an instant or sorcery spell, this creature deals 1 damage to each opponent.
+
+Card Name: Fiery Inscription (#126) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 3 | Power: 
+Text: When this enchantment enters, the Ring tempts you. / Whenever you cast an instant or sorcery spell, this enchantment deals 2 damage to each opponent.
+
+Card Name: Fire of Orthanc (#127) | Spoiled date: unknown
+Rarity: common | Mana Value: 4 | Power: 
+Text: Destroy target artifact or land. Creatures without flying can't block this turn.
+
+Card Name: Foray of Orcs (#128) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 4 | Power: 
+Text: Amass Orcs 2. When you do, Foray of Orcs deals X damage to target creature an opponent controls, where X is the amassed Army's power. (To amass Orcs 2, put two +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)
+
+Card Name: Gimli's Axe (#130) | Spoiled date: unknown
+Rarity: common | Mana Value: 3 | Power: 
+Text: Equipped creature gets +3/+0. / As long as equipped creature is legendary, it has menace. (It can't be blocked except by two or more creatures.) / Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
+
+Card Name: Goblin Fireleaper (#133) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 2 | Power: 1
+Text: {1}{R}: This creature gets +1/+0 until end of turn. / When this creature dies, it deals damage equal to its power to target creature an opponent controls.
+
+Card Name: Grishnákh, Brash Instigator (#134) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 3 | Power: 1
+Text: When Grishnákh enters, amass Orcs 2. When you do, until end of turn, gain control of target nonlegendary creature an opponent controls with power less than or equal to the amassed Army's power. Untap that creature. It gains haste until end of turn.
+
+Card Name: Haradrim Spearmaster (#135) | Spoiled date: unknown
+Rarity: common | Mana Value: 3 | Power: 2
+Text: Reach / At the beginning of combat on your turn, another target creature you control gets +1/+0 until end of turn.
+
+Card Name: Hew the Entwood (#136) | Spoiled date: unknown
+Rarity: mythic | Mana Value: 5 | Power: 
+Text: Sacrifice any number of lands. Reveal the top X cards of your library, where X is the number of lands sacrificed this way. Choose any number of artifact and/or land cards revealed this way. Put all nonland cards chosen this way onto the battlefield, then put all land cards chosen this way onto the battlefield tapped, then put the rest on the bottom of your library in a random order.
+
+Card Name: Improvised Club (#137) | Spoiled date: unknown
+Rarity: common | Mana Value: 2 | Power: 
+Text: As an additional cost to cast this spell, sacrifice an artifact or creature. / Improvised Club deals 4 damage to any target.
+
+Card Name: Oliphaunt (#139) | Spoiled date: unknown
+Rarity: common | Mana Value: 6 | Power: 6
+Text: Trample / Whenever this creature attacks, another target creature you control gets +2/+0 and gains trample until end of turn. / Mountaincycling {1} ({1}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)
+
+Card Name: Olog-hai Crusher (#140) | Spoiled date: unknown
+Rarity: common | Mana Value: 4 | Power: 4
+Text: Trample / This creature can't block unless you control a Goblin or Orc.
+
+Card Name: Quarrel's End (#141) | Spoiled date: unknown
+Rarity: common | Mana Value: 3 | Power: 
+Text: As an additional cost to cast this spell, discard a card. / Draw two cards and create a 1/1 white Human Soldier creature token.
+
+Card Name: Relentless Rohirrim (#144) | Spoiled date: unknown
+Rarity: common | Mana Value: 4 | Power: 4
+Text: When this creature enters, the Ring tempts you.
+
+Card Name: Rising of the Day (#145) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 3 | Power: 
+Text: Creatures you control have haste. / Legendary creatures you control get +1/+0.
+
+Card Name: Rohirrim Lancer (#146) | Spoiled date: unknown
+Rarity: common | Mana Value: 1 | Power: 1
+Text: Menace (This creature can't be blocked except by two or more creatures.) / When this creature dies, the Ring tempts you.
+
+Card Name: Rush the Room (#147) | Spoiled date: unknown
+Rarity: common | Mana Value: 1 | Power: 
+Text: Target creature gets +1/+0 and gains first strike until end of turn. If it's a Goblin or Orc, it also gains haste until end of turn.
+
+Card Name: Smite the Deathless (#148) | Spoiled date: unknown
+Rarity: common | Mana Value: 2 | Power: 
+Text: Smite the Deathless deals 3 damage to target creature. That creature loses indestructible until end of turn. If that creature would die this turn, exile it instead.
+
+Card Name: Swarming of Moria (#150) | Spoiled date: unknown
+Rarity: common | Mana Value: 3 | Power: 
+Text: Create a Treasure token. (It's an artifact with "{T}, Sacrifice this token: Add one mana of any color.") / Amass Orcs 2. (Put two +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)
+
+Card Name: Bag End Porter (#153) | Spoiled date: unknown
+Rarity: common | Mana Value: 4 | Power: 4
+Text: Whenever this creature attacks, it gets +X/+X until end of turn, where X is the number of legendary creatures you control.
+
+Card Name: Bombadil's Song (#154) | Spoiled date: unknown
+Rarity: common | Mana Value: 2 | Power: 
+Text: Target creature you control gets +1/+1 and gains hexproof until end of turn. The Ring tempts you. (A creature with hexproof can't be the target of spells or abilities your opponents control.)
+
+Card Name: Brandywine Farmer (#155) | Spoiled date: unknown
+Rarity: common | Mana Value: 3 | Power: 1
+Text: When this creature enters or leaves the battlefield, create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.")
+
+Card Name: Chance-Met Elves (#157) | Spoiled date: unknown
+Rarity: common | Mana Value: 3 | Power: 3
+Text: Whenever you scry, put a +1/+1 counter on this creature. This ability triggers only once each turn.
+
+Card Name: Elven Farsight (#161) | Spoiled date: unknown
+Rarity: common | Mana Value: 1 | Power: 
+Text: Scry 3, then you may reveal the top card of your library. If a creature card is revealed this way, draw a card.
+
+Card Name: Enraged Huorn (#162) | Spoiled date: unknown
+Rarity: common | Mana Value: 5 | Power: 4
+Text: Trample / When this creature enters, the Ring tempts you.
+
+Card Name: Ent's Fury (#164) | Spoiled date: unknown
+Rarity: common | Mana Value: 2 | Power: 
+Text: Put a +1/+1 counter on target creature you control if its power is 4 or greater. Then that creature gets +1/+1 until end of turn and fights target creature you don't control.
+
+Card Name: Fangorn, Tree Shepherd (#166) | Spoiled date: unknown
+Rarity: rare | Mana Value: 7 | Power: 4
+Text: Treefolk you control have vigilance. / Whenever one or more Treefolk you control attack, add twice that much {G}. / You don't lose unspent green mana as steps and phases end.
+
+Card Name: Galadhrim Bow (#167) | Spoiled date: unknown
+Rarity: common | Mana Value: 3 | Power: 
+Text: Flash / When this Equipment enters, attach it to target creature you control. Untap that creature. / Equipped creature gets +1/+2 and has reach. / Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
+
+Card Name: Galadhrim Guide (#168) | Spoiled date: unknown
+Rarity: common | Mana Value: 4 | Power: 3
+Text: When this creature enters, scry 2.
+
+Card Name: Generous Ent (#169) | Spoiled date: unknown
+Rarity: common | Mana Value: 6 | Power: 5
+Text: Reach / When this creature enters, create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.") / Forestcycling {1} ({1}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)
+
+Card Name: Gift of Strands (#170) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 4 | Power: 
+Text: Flash / Enchant creature / When this Aura enters, scry 2. / Enchanted creature gets +3/+3.
+
+Card Name: Last March of the Ents (#172) | Spoiled date: unknown
+Rarity: mythic | Mana Value: 8 | Power: 
+Text: This spell can't be countered. / Draw cards equal to the greatest toughness among creatures you control, then put any number of creature cards from your hand onto the battlefield.
+
+Card Name: Legolas, Master Archer (#173) | Spoiled date: unknown
+Rarity: rare | Mana Value: 3 | Power: 1
+Text: Reach / Whenever you cast a spell that targets Legolas, put a +1/+1 counter on Legolas. / Whenever you cast a spell that targets a creature you don't control, Legolas deals damage equal to its power to up to one target creature.
+
+Card Name: Long List of the Ents (#174) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 1 | Power: 
+Text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after VI.) / I, II, III, IV, V, VI — Note a creature type that hasn't been noted for this Saga. When you next cast a creature spell of that type this turn, that creature enters with an additional +1/+1 counter on it.
+
+Card Name: Lothlórien Lookout (#175) | Spoiled date: unknown
+Rarity: common | Mana Value: 2 | Power: 1
+Text: Whenever this creature attacks, scry 1.
+
+Card Name: Many Partings (#176) | Spoiled date: unknown
+Rarity: common | Mana Value: 1 | Power: 
+Text: Search your library for a basic land card, reveal it, put it into your hand, then shuffle. Create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.")
+
+Card Name: Meriadoc Brandybuck (#177) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 2 | Power: 2
+Text: Whenever one or more Halflings you control attack a player, create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.")
+
+Card Name: Mirrormere Guardian (#179) | Spoiled date: unknown
+Rarity: common | Mana Value: 3 | Power: 4
+Text: When this creature dies, the Ring tempts you.
+
+Card Name: Mushroom Watchdogs (#180) | Spoiled date: unknown
+Rarity: common | Mana Value: 2 | Power: 2
+Text: Sacrifice a Food: Put a +1/+1 counter on this creature. It gains vigilance until end of turn. Activate only as a sorcery.
+
+Card Name: Peregrin Took (#181) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 3 | Power: 2
+Text: If one or more tokens would be created under your control, those tokens plus an additional Food token are created instead. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.") / Sacrifice three Foods: Draw a card.
+
+Card Name: Pippin's Bravery (#182) | Spoiled date: unknown
+Rarity: common | Mana Value: 1 | Power: 
+Text: You may sacrifice a Food. If you do, target creature gets +4/+4 until end of turn. Otherwise, that creature gets +2/+2 until end of turn.
+
+Card Name: Quickbeam, Upstart Ent (#183) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 6 | Power: 5
+Text: Whenever Quickbeam or another Treefolk you control enters, up to two target creatures each get +2/+2 and gain trample until end of turn.
+
+Card Name: Shower of Arrows (#188) | Spoiled date: unknown
+Rarity: common | Mana Value: 3 | Power: 
+Text: Destroy target artifact, enchantment, or creature with flying. Scry 1.
+
+Card Name: Stew the Coneys (#189) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 3 | Power: 
+Text: Target creature you control deals damage equal to its power to target creature you don't control. Create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.")
+
+Card Name: Wose Pathfinder (#190) | Spoiled date: unknown
+Rarity: common | Mana Value: 2 | Power: 1
+Text: {T}: Add one mana of any color. / {6}{G}, {T}: Another target creature gets +3/+3 and gains trample until end of turn.
+
+Card Name: Aragorn, the Uniter (#192) | Spoiled date: unknown
+Rarity: mythic | Mana Value: 4 | Power: 5
+Text: Whenever you cast a white spell, create a 1/1 white Human Soldier creature token. / Whenever you cast a blue spell, scry 2. / Whenever you cast a red spell, Aragorn deals 3 damage to target opponent. / Whenever you cast a green spell, target creature gets +4/+4 until end of turn.
+
+Card Name: Butterbur, Bree Innkeeper (#197) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 4 | Power: 3
+Text: At the beginning of your end step, if you don't control a Food, create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.")
+
+Card Name: Éowyn, Fearless Knight (#201) | Spoiled date: unknown
+Rarity: rare | Mana Value: 4 | Power: 3
+Text: Haste / When Éowyn enters, exile target creature an opponent controls with greater power. Legendary creatures you control gain protection from each of that creature's colors until end of turn.
+
+Card Name: Gimli, Mournful Avenger (#209) | Spoiled date: unknown
+Rarity: rare | Mana Value: 3 | Power: 3
+Text: Gimli has indestructible as long as two or more creatures died under your control this turn. / Whenever another creature you control dies, put a +1/+1 counter on Gimli. When this ability resolves for the third time this turn, Gimli fights up to one target creature you don't control.
+
+Card Name: Mauhúr, Uruk-hai Captain (#214) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 2 | Power: 2
+Text: Menace / If one or more +1/+1 counters would be put on an Army, Goblin, or Orc you control, that many plus one +1/+1 counters are put on it instead.
+
+Card Name: Merry, Esquire of Rohan (#215) | Spoiled date: unknown
+Rarity: rare | Mana Value: 2 | Power: 2
+Text: Haste / Merry has first strike as long as it's equipped. / Whenever you attack with Merry and another legendary creature, draw a card.
+
+Card Name: The Mouth of Sauron (#216) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 5 | Power: 3
+Text: When The Mouth of Sauron enters, target player mills three cards. Then amass Orcs X, where X is the number of instant and sorcery cards in that player's graveyard. (Put X +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)
+
+Card Name: Pippin, Guard of the Citadel (#218) | Spoiled date: unknown
+Rarity: rare | Mana Value: 2 | Power: 2
+Text: Vigilance, ward {1} / {T}: Another target creature you control gains protection from the card type of your choice until end of turn. (It can't be blocked, targeted, dealt damage, enchanted, or equipped by anything of that type.)
+
+Card Name: Prince Imrahil the Fair (#219) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 2 | Power: 2
+Text: Whenever you draw your second card each turn, create a 1/1 white Human Soldier creature token.
+
+Card Name: Samwise Gamgee (#222) | Spoiled date: unknown
+Rarity: rare | Mana Value: 2 | Power: 2
+Text: Whenever another nontoken creature you control enters, create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.") / Sacrifice three Foods: Return target historic card from your graveyard to your hand. (Artifacts, legendaries, and Sagas are historic.)
+
+Card Name: Saruman of Many Colors (#223) | Spoiled date: unknown
+Rarity: mythic | Mana Value: 6 | Power: 5
+Text: Ward—Discard an enchantment, instant, or sorcery card. / Whenever you cast your second spell each turn, each opponent mills two cards. When one or more cards are milled this way, exile target enchantment, instant, or sorcery card with equal or lesser mana value than that spell from an opponent's graveyard. Copy the exiled card. You may cast the copy without paying its mana cost.
+
+Card Name: Sauron, the Dark Lord (#224) | Spoiled date: unknown
+Rarity: mythic | Mana Value: 6 | Power: 7
+Text: Ward—Sacrifice a legendary artifact or legendary creature. / Whenever an opponent casts a spell, amass Orcs 1. / Whenever an Army you control deals combat damage to a player, the Ring tempts you. / Whenever the Ring tempts you, you may discard your hand. If you do, draw four cards.
+
+Card Name: Sauron's Ransom (#225) | Spoiled date: unknown
+Rarity: rare | Mana Value: 3 | Power: 
+Text: Choose an opponent. They look at the top four cards of your library and separate them into a face-down pile and a face-up pile. Put one pile into your hand and the other into your graveyard. The Ring tempts you.
+
+Card Name: Shagrat, Loot Bearer (#228) | Spoiled date: unknown
+Rarity: rare | Mana Value: 4 | Power: 4
+Text: Whenever Shagrat attacks, attach up to one target Equipment to it. Then amass Orcs X, where X is the number of Equipment attached to Shagrat. (Control of the Equipment doesn't change. To amass Orcs X, put X +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)
+
+Card Name: Uglúk of the White Hand (#235) | Spoiled date: unknown
+Rarity: uncommon | Mana Value: 4 | Power: 3
+Text: Whenever another creature you control dies, put a +1/+1 counter on Uglúk. If that creature was a Goblin or Orc, put two +1/+1 counters on Uglúk instead.
+
+Card Name: Inherited Envelope (#242) | Spoiled date: unknown
+Rarity: common | Mana Value: 3 | Power: 
+Text: When this artifact enters, the Ring tempts you. / {T}: Add one mana of any color.
+
+Card Name: Shire Scarecrow (#249) | Spoiled date: unknown
+Rarity: common | Mana Value: 2 | Power: 0
+Text: Defender / {1}: Add one mana of any color. Activate only once each turn.
+
+Card Name: Barad-dûr (#253) | Spoiled date: unknown
+Rarity: rare | Mana Value: 0 | Power: 
+Text: Barad-dûr enters tapped unless you control a legendary creature. / {T}: Add {B}. / {X}{X}{B}, {T}: Amass Orcs X. Activate only if a creature died this turn.
+
+Card Name: Minas Tirith (#256) | Spoiled date: unknown
+Rarity: rare | Mana Value: 0 | Power: 
+Text: Minas Tirith enters tapped unless you control a legendary creature. / {T}: Add {W}. / {1}{W}, {T}: Draw a card. Activate only if you attacked with two or more creatures this turn.
+
+Card Name: Rivendell (#259) | Spoiled date: unknown
+Rarity: rare | Mana Value: 0 | Power: 
+Text: Rivendell enters tapped unless you control a legendary creature. / {T}: Add {U}. / {1}{U}, {T}: Scry 2. Activate only if you control a legendary creature.
+
+Card Name: The Shire (#260) | Spoiled date: unknown
+Rarity: rare | Mana Value: 0 | Power: 
+Text: The Shire enters tapped unless you control a legendary creature. / {T}: Add {G}. / {1}{G}, {T}, Tap an untapped creature you control: Create a Food token.
+
+Card Name: Shire Terrace (#261) | Spoiled date: unknown
+Rarity: common | Mana Value: 0 | Power: 
+Text: {T}: Add {C}. / {1}, {T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+
+Card Name: Frodo, Determined Hero (#289) | Spoiled date: unknown
+Rarity: rare | Mana Value: 2 | Power: 2
+Text: Whenever Frodo enters or attacks, you may attach target Equipment you control with mana value 2 or 3 to Frodo. / During your turn, prevent all damage that would be dealt to Frodo.
+
+Name: Knight of the Keep (#291) | Spoiled: reprint | Rarity: common | Mana Value: 3 | Power: 3 | Text:
+
+Card Name: Witch-king, Bringer of Ruin (#293) | Spoiled date: unknown
+Rarity: rare | Mana Value: 6 | Power: 5
+Text: Flying / Whenever Witch-king attacks, defending player sacrifices a creature with the least power among creatures they control.
+
+Card Name: Fires of Mount Doom (#294) | Spoiled date: unknown
+Rarity: rare | Mana Value: 3 | Power: 
+Text: When Fires of Mount Doom enters, it deals 2 damage to target creature an opponent controls. Destroy all Equipment attached to that creature. / {2}{R}: Exile the top card of your library. You may play that card this turn. When you play a card this way, Fires of Mount Doom deals 2 damage to each player.
+
+Name: Goblin Assailant (#295) | Spoiled: reprint | Rarity: common | Mana Value: 2 | Power: 2 | Text:
+
+Card Name: Galadriel, Gift-Giver (#296) | Spoiled date: unknown
+Rarity: rare | Mana Value: 5 | Power: 4
+Text: Whenever Galadriel enters or attacks, choose one — / • Put a +1/+1 counter on another target creature. / • Create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.") / • Create a Treasure token. (It's an artifact with "{T}, Sacrifice this token: Add one mana of any color.")
+
+Card Name: The Balrog, Flame of Udûn (#297) | Spoiled date: unknown
+Rarity: rare | Mana Value: 5 | Power: 7
+Text: Trample / When a legendary creature an opponent controls dies, put The Balrog on the bottom of its owner's library.
+
+Card Name: Bilbo's Ring (#298) | Spoiled date: unknown
+Rarity: rare | Mana Value: 3 | Power: 
+Text: During your turn, equipped creature has hexproof and can't be blocked. / Whenever equipped creature attacks alone, you draw a card and you lose 1 life. / Equip Halfling {1} ({1}: Attach to target Halfling you control. Equip only as a sorcery.) / Equip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)
+
+Card Name: Trailblazer's Boots (#398) | Spoiled date: reprint
+Rarity: rare | Mana Value: 2 | Power: 
+Text: Equipped creature has nonbasic landwalk. (It can't be blocked as long as defending player controls a nonbasic land.) / Equip {2}
+
+Card Name: Minas Tirith Garrison (#825) | Spoiled date: unknown
+Rarity: rare | Mana Value: 4 | Power: 
+Text: Minas Tirith Garrison's power is equal to the number of cards in your hand. / Whenever this creature attacks, you may tap any number of untapped Humans you control. Draw a card for each Human tapped this way.
+
+Card Name: Riders of the Mark (#827) | Spoiled date: unknown
+Rarity: rare | Mana Value: 7 | Power: 7
+Text: Affinity for Humans (This spell costs {1} less to cast for each Human you control.) / Trample, haste / At the beginning of your end step, if this creature attacked this turn, return it to its owner's hand. If you do, create a number of 1/1 white Human Soldier creature tokens equal to its toughness.
